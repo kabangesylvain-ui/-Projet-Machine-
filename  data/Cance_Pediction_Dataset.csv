@@ -1,0 +1,1001 @@
+PatientID,first_name,last_name,BirthDate,gender,Obesity,Smoking,Genetic Risk,Cancer Prediction Level
+1,Marlee,Merrgen,7/29/2011,Homme,Obésité de classe II,Yes,,Medium
+2,Heinrik,Baelde,9/25/1992,Male,Obésité de classe II,No,Yes,Medium
+3,,Duffyn,5/10/1950,Homme,Poids normal Surpoids,Yes,Maybe,Low
+4,Ninette,Checchetelli,3/21/2007,Homme,Obésité de classe I,Yes,No,Low
+5,Neala,Dible,7/10/2006,Femme,Obesité exteme,No,Maybe,Medium
+6,Prudy,Amer,9/2/2018,F,Obésité de classe III,No,Yes,Low
+7,,Castro,4/26/1969,H,Obésité de classe III,No,No,
+8,Cassandre,Matveiko,11/18/1997,H,Poids normal Surpoids,No,Maybe,Low
+9,Nikolos,Charrette,6/7/2004,Male,Sous-poids,No,No,Medium
+10,Clarette,Couling,11/11/1945,Female,Obésité de classe II,Yes,No,High
+11,Terrye,Glantz,12/5/1975,,Obesité exteme,Yes,Yes,High
+12,Lance,Scrane,4/17/1946,Femme,Poids normal Surpoids,Yes,Yes,High
+13,Kiri,Schimann,5/13/1953,Female,Obesité exteme,Yes,Yes,High
+14,Brok,Glading,5/9/1974,Male,Obésité de classe II,No,Yes,
+15,Donavon,Devanny,2/22/1994,H,Obésité de classe III,No,No,Medium
+16,Adelbert,Cardoo,12/13/1995,Femme,Sous-poids,Yes,Maybe,High
+17,Michaeline,Maclaine,4/22/1954,Homme,Sous-poids,No,No,High
+18,Doug,Benoist,4/28/1985,H,Obesité exteme,No,No,Medium
+19,Maure,Saffon,10/20/2021,Femme,Obésité de classe I,No,Yes,Medium
+20,Nertie,Uphill,8/12/1982,Femme,Poids normal Surpoids,Yes,No,Medium
+,Kristian,Matysiak,12/8/1973,Homme,Obésité de classe I,Yes,No,Medium
+22,Louella,Grimsdith,11/23/1963,Female,Poids normal Surpoids,No,No,High
+23,Hans,Whithalgh,8/28/1940,F,Sous-poids,No,Maybe,Low
+24,Jaime,Kitchingman,1/21/2010,Homme,Obésité de classe I,Yes,Yes,Low
+25,Isaac,Byer,4/29/1950,H,Obésité de classe III,Yes,,High
+26,Katrinka,Coyish,2/24/2011,Homme,Obésité de classe III,Yes,No,Low
+27,Luce,Kinahan,3/2/1969,H,Obésité de classe III,No,Maybe,High
+28,Nikolos,Hubber,5/22/1990,F,Obésité de classe III,Yes,Yes,Medium
+29,Shawn,Auger,4/5/1998,Homme,Obesité exteme,No,Yes,Medium
+30,Corrie,Doumer,3/12/1972,Female,Poids normal Surpoids,Yes,No,Low
+31,Glynn,Gilffilland,10/4/1970,H,Obésité de classe II,Yes,Maybe,Medium
+32,Terrie,Imm,1/26/1966,Female,Sous-poids,Yes,Maybe,Low
+33,,Saurin,1/5/1951,Femme,Obésité de classe I,Yes,Maybe,Medium
+34,Alec,Filyashin,8/30/2017,Homme,Obésité de classe III,Yes,No,High
+35,Koren,Schuelcke,7/29/1988,H,Obésité de classe I,No,Maybe,Medium
+36,Rita,Trask,10/5/1971,F,Sous-poids,Yes,Yes,Medium
+37,Robina,Vousden,9/4/1946,Male,Obesité exteme,Yes,,Medium
+38,Laurens,Atlee,12/28/2002,H,Obésité de classe III,Yes,Yes,Low
+39,Fred,Bowlas,2/2/1945,Male,Obesité exteme,Yes,No,Low
+40,Doria,O'Scanlan,5/11/1935,Male,Obésité de classe II,No,No,Medium
+41,Shanda,Noar,11/12/2021,Male,Obésité de classe II,Yes,No,High
+42,Meghann,Agent,6/28/1970,,Sous-poids,Yes,No,High
+43,Alvira,D'Elias,7/11/2018,Femme,Obésité de classe II,Yes,,High
+44,Steffi,Twinterman,5/5/2000,F,Obesité exteme,No,,Low
+45,Quinton,Jantel,10/10/1949,Femme,Obesité exteme,No,,Medium
+46,Natasha,Gypson,12/6/1997,Female,Sous-poids,Yes,No,Low
+47,Pat,Trathan,9/9/1980,F,Obesité exteme,No,Maybe,Medium
+48,Katerina,Staresmeare,12/3/1995,Female,Obésité de classe I,Yes,Yes,Low
+49,Blakelee,Rosewarne,1/31/1978,Female,Obésité de classe I,Yes,Yes,Medium
+50,Rolfe,Thorrold,12/2/2014,Femme,Obésité de classe II,No,Yes,Medium
+51,Lynne,Huegett,8/30/1991,Homme,Poids normal Surpoids,Yes,No,Medium
+52,Kass,Labet,5/19/1982,Femme,Poids normal Surpoids,Yes,Maybe,Medium
+53,Cirilo,Barnhart,7/17/2007,Femme,Obesité exteme,Yes,No,Low
+54,Byran,Windridge,2/23/2004,F,Obésité de classe I,Yes,,High
+55,Nickey,Guyonneau,9/23/1997,H,Obésité de classe III,No,Maybe,Low
+56,Eleni,Ridding,12/25/1962,Female,Obésité de classe I,Yes,Maybe,Low
+57,Madelle,Julyan,2/23/2004,Homme,Obésité de classe I,Yes,Yes,High
+58,Augustus,Slator,7/24/1976,F,Obesité exteme,Yes,No,Medium
+59,Brocky,Orrock,8/19/1988,H,Obésité de classe III,No,No,Low
+60,Hal,Jerger,4/27/1997,Male,Poids normal Surpoids,Yes,No,Medium
+61,Ash,Cardall,11/27/2004,Homme,Poids normal Surpoids,Yes,No,Low
+62,Nicholas,Ruzek,8/26/1946,Homme,Obésité de classe II,No,No,High
+63,Gibbie,Le Grand,11/27/1980,Homme,Obesité exteme,Yes,Yes,Low
+64,Marshall,Aire,2/3/1955,Femme,Obésité de classe II,No,Yes,Medium
+65,Porty,Sargant,8/12/1982,Homme,Obésité de classe II,Yes,Yes,High
+66,Britt,Ponder,5/16/1959,Male,Poids normal Surpoids,Yes,Maybe,High
+67,Gillan,Whatham,2/8/1942,Female,Poids normal Surpoids,No,Yes,Medium
+68,Hewitt,Oldall,11/8/1969,Homme,Obesité exteme,Yes,Yes,High
+69,Edee,Oleszkiewicz,4/11/2020,F,Obésité de classe II,No,Yes,Medium
+70,Katharyn,Farlam,8/2/2003,Homme,Obésité de classe II,No,Maybe,Low
+71,Tarra,Loughman,12/16/2010,Femme,Obésité de classe III,Yes,No,Medium
+72,Willabella,Favel,8/8/1992,Homme,Obésité de classe II,No,Yes,
+73,Sandro,Wetherhead,2/20/2010,Femme,Obésité de classe I,Yes,Yes,Low
+74,Jere,Durrans,12/13/2009,Female,Sous-poids,Yes,Maybe,High
+75,Corie,Bullock,6/5/1976,Female,Poids normal Surpoids,Yes,No,High
+76,Dwight,Hawkslee,5/24/1944,Homme,Obésité de classe III,Yes,Yes,High
+77,Wildon,Greber,5/13/1961,,Obésité de classe III,No,No,Low
+78,Towney,Savidge,9/24/1982,Homme,Obésité de classe III,Yes,Yes,High
+79,Faber,Swanborrow,5/7/1955,Homme,Poids normal Surpoids,No,Maybe,High
+80,Georgy,Iacobetto,7/19/2019,Homme,Sous-poids,No,No,High
+81,Roman,Bonas,3/14/1969,Homme,Obésité de classe I,Yes,Maybe,
+82,Maye,Lethieulier,10/18/1941,Male,Obesité exteme,No,Yes,Low
+83,Jenni,Gotter,6/27/2018,Femme,Obesité exteme,Yes,Yes,Medium
+84,Hew,Rudgley,11/11/2001,Femme,Poids normal Surpoids,No,Maybe,
+85,Clarita,Sywell,12/23/1971,H,Poids normal Surpoids,No,Maybe,Medium
+86,Coleen,Versey,6/5/2013,Female,Obésité de classe I,No,Maybe,Medium
+87,Reid,Hancke,5/19/1955,F,Obesité exteme,Yes,No,High
+88,Helen-elizabeth,Gherardelli,6/9/1970,F,Obésité de classe II,Yes,No,High
+89,Willem,Caiger,8/7/1962,Homme,Obésité de classe II,No,No,High
+90,Denni,Ghelarducci,3/17/1994,Homme,Poids normal Surpoids,No,Maybe,High
+91,Hayes,Bea,3/28/1950,F,Obésité de classe III,Yes,Yes,Medium
+92,Cointon,Pandie,3/19/1973,H,Sous-poids,Yes,No,Medium
+93,Carri,Gleadhell,5/24/2013,F,Poids normal Surpoids,Yes,No,
+,Ardisj,Battista,4/20/1957,F,Obésité de classe II,Yes,No,High
+95,Had,Galley,7/10/2007,Homme,Obésité de classe III,No,Yes,Medium
+96,Chelsae,Mercik,2/25/2020,Homme,Poids normal Surpoids,No,Yes,Medium
+97,Marylin,Dabels,1/25/1964,Female,Poids normal Surpoids,No,Yes,High
+98,Ban,Disney,3/31/1945,Female,Poids normal Surpoids,Yes,Yes,Low
+99,Madeline,Brimner,5/5/2008,Female,Obésité de classe II,No,No,High
+100,Ediva,Bolitho,2/1/1948,Male,Obésité de classe I,No,Yes,Medium
+101,Nessie,Rumens,9/27/2005,Homme,Obésité de classe II,No,No,Medium
+102,Garek,Sandom,6/14/1991,F,Obésité de classe I,Yes,No,Medium
+103,Uriah,Teers,9/4/1969,Male,Obésité de classe III,Yes,No,Low
+104,Gertruda,Polsin,8/28/1978,Femme,Poids normal Surpoids,No,,High
+105,Curr,Fraulo,3/7/1939,Femme,Obesité exteme,Yes,No,High
+106,Rodolfo,Audas,1/15/1985,Male,Obesité exteme,No,Yes,Low
+107,Zsazsa,Chippendale,2/7/2022,Homme,Obésité de classe III,Yes,Maybe,Medium
+108,Emmalee,Thrussell,4/12/1961,Homme,Poids normal Surpoids,Yes,Yes,Low
+109,Debi,Ege,8/29/1960,Femme,Obésité de classe III,No,No,Medium
+110,Thorn,Layne,2/10/2001,Homme,Obesité exteme,Yes,Maybe,High
+111,Myron,Asmus,11/30/1971,Male,Obésité de classe II,Yes,Yes,Low
+112,Nicko,Overy,4/16/1946,H,Obesité exteme,Yes,Maybe,Low
+113,Sephira,Roper,9/28/2019,Femme,Obesité exteme,Yes,No,High
+114,Tedda,Priestnall,10/3/2002,Homme,Sous-poids,Yes,Yes,Medium
+115,Natalee,Greatrakes,11/10/1941,Male,Obésité de classe II,Yes,Maybe,Medium
+116,Falkner,Goatman,11/23/1970,Femme,Obésité de classe I,No,Yes,Low
+117,Courtney,Piddletown,4/30/1973,Female,Obésité de classe III,Yes,Maybe,Low
+118,Jaimie,Cracie,5/9/1977,F,Sous-poids,Yes,No,Medium
+119,Hershel,Yorke,6/26/2006,Male,Sous-poids,Yes,Yes,High
+120,Iorgos,Turnbull,9/1/1933,Male,Obésité de classe II,No,No,Low
+121,Anestassia,Aked,12/18/1979,Femme,Obésité de classe I,No,Yes,Low
+122,Gawen,Beadnell,7/28/1955,Femme,Poids normal Surpoids,No,No,Low
+123,Violette,Manns,6/11/2006,F,Obesité exteme,Yes,Yes,High
+124,,Bolderoe,7/18/1978,F,Obesité exteme,Yes,Yes,High
+125,Dorelia,Tunnow,6/24/2006,Female,Obesité exteme,Yes,Maybe,Low
+126,Flo,Dillicate,3/17/2023,Male,Poids normal Surpoids,Yes,Maybe,Medium
+127,Hiram,Rotter,1/8/1955,Male,Sous-poids,Yes,Yes,High
+128,Neda,Smallacombe,2/26/1986,F,Obésité de classe III,Yes,Yes,Medium
+129,Sherline,Douche,1/4/2006,Female,Obésité de classe I,Yes,Yes,
+130,Karine,Mennithorp,11/27/2010,Female,Obesité exteme,No,Maybe,High
+131,Vasily,Ibbotson,6/8/1952,Homme,Obesité exteme,Yes,Maybe,Low
+132,Tine,McKenna,7/12/1980,Femme,Obésité de classe I,No,No,Medium
+133,Dawn,Biggans,10/22/1937,Female,Obésité de classe II,No,No,Low
+134,Nomi,Garaway,6/8/2004,F,Sous-poids,No,Maybe,Low
+135,Colene,Greenard,10/8/1998,H,Obésité de classe III,Yes,No,High
+136,Felicio,Benezeit,5/13/1972,Male,Poids normal Surpoids,No,Maybe,High
+137,Ashlen,de Chastelain,10/5/1982,Male,Poids normal Surpoids,Yes,,Low
+138,Mercy,Blakes,12/17/1982,Female,Obesité exteme,Yes,Yes,Low
+139,Reba,Tieraney,12/18/1950,Homme,Obésité de classe I,Yes,Yes,High
+140,Georgeanna,Flannigan,2/24/1949,Female,Obésité de classe II,No,Maybe,High
+141,Merrill,Newhouse,12/7/1952,H,Obésité de classe I,No,No,Low
+142,Lauren,O'Flynn,4/3/1972,F,Obésité de classe I,Yes,Maybe,Medium
+143,Morgan,Philps,5/2/1965,Female,Obésité de classe III,Yes,Maybe,Low
+144,Dorine,Darrel,12/10/1997,F,Sous-poids,Yes,Maybe,Medium
+145,Ibrahim,Lough,7/4/1993,Homme,Obésité de classe I,No,Maybe,Low
+146,Venita,Hunnaball,8/13/2022,Female,Obésité de classe III,No,Maybe,Medium
+147,Debor,Brandes,9/4/1975,Femme,Obésité de classe II,No,Yes,
+148,Wald,Grevatt,11/30/1963,Homme,Sous-poids,No,Yes,Medium
+149,Montgomery,Palphreyman,2/12/1966,Male,Obésité de classe II,Yes,Yes,Medium
+150,Normy,Gregor,4/9/2009,Female,Obésité de classe III,No,,High
+151,Gaby,Risebarer,8/18/1981,Male,Obesité exteme,Yes,Yes,High
+152,Barn,Beautyman,12/12/1966,Male,Poids normal Surpoids,Yes,No,Medium
+153,Dara,Itzcovich,9/21/1949,Femme,Obesité exteme,Yes,No,Medium
+154,Emilio,Jamot,10/1/1978,Homme,Obésité de classe I,Yes,Maybe,Medium
+155,Giustino,Louw,3/2/1990,H,Sous-poids,No,No,Low
+156,Jenica,Palfrie,6/13/2012,Homme,Poids normal Surpoids,Yes,Yes,Low
+157,Cristionna,Chessum,5/29/1956,Male,Poids normal Surpoids,No,Yes,Medium
+158,Zita,Ebbutt,6/27/1969,F,Obésité de classe II,Yes,Maybe,
+159,Saraann,Guirard,12/15/1934,H,Poids normal Surpoids,Yes,Yes,Medium
+160,Gawen,Bytheway,10/12/1974,Female,Obesité exteme,No,Yes,High
+161,Jackelyn,Harwell,1/20/2018,F,Poids normal Surpoids,Yes,Maybe,Medium
+162,Quillan,Sturney,7/26/1947,F,Obésité de classe II,Yes,Maybe,High
+163,Jemimah,Reiach,8/21/2007,Female,Obesité exteme,Yes,Yes,Low
+164,Gilbertine,Soars,1/28/2013,F,Obésité de classe II,No,Maybe,Low
+165,Merrile,Print,5/8/2022,Male,Obésité de classe III,Yes,Maybe,Low
+166,Marinna,Rojel,4/26/1972,H,Poids normal Surpoids,Yes,No,Medium
+167,Rosemarie,Lockhart,11/18/1964,Homme,Poids normal Surpoids,Yes,Maybe,Low
+168,Franky,Stede,9/24/1977,Male,Obesité exteme,Yes,,
+169,Jerrie,Boarer,7/4/1985,F,Obesité exteme,Yes,No,Medium
+170,Joan,Dundin,4/4/1981,Male,Obésité de classe I,Yes,No,Low
+171,Zitella,Purchall,9/24/2018,Homme,Obésité de classe I,No,,Low
+172,Godwin,Claxson,8/25/1973,H,Poids normal Surpoids,Yes,Maybe,High
+173,Kathi,Edwinson,10/16/1935,Homme,Obésité de classe III,No,No,Medium
+174,Manda,Esherwood,7/30/1944,Homme,Obésité de classe III,No,Yes,Medium
+175,Olenka,Hiddsley,2/21/2015,F,Obésité de classe II,No,Maybe,Medium
+176,Minny,Dowling,5/14/1933,F,Obésité de classe III,Yes,No,Medium
+177,Cary,Sparwell,9/24/2023,Female,Sous-poids,Yes,Yes,Medium
+178,,Hadwin,11/6/1935,Femme,Obésité de classe I,Yes,No,High
+179,Kippy,Spens,4/22/1937,Femme,Sous-poids,No,No,High
+180,Max,Shephard,11/21/2020,Female,Obésité de classe I,No,Yes,High
+181,Brooke,Malster,10/18/1981,Femme,Obésité de classe I,Yes,Yes,High
+182,Tamarra,Kristufek,3/8/1981,Male,Obésité de classe II,Yes,,High
+183,Kelsey,Eicheler,11/1/2018,Male,Obésité de classe III,Yes,Maybe,High
+184,Urbanus,Jorczyk,11/30/1958,Femme,Sous-poids,Yes,Maybe,High
+185,Lucho,Startin,2/17/1995,H,Obesité exteme,Yes,Maybe,Low
+186,Giacinta,Romero,8/19/1975,Femme,Sous-poids,No,Maybe,Low
+187,Saundra,Morston,10/17/1997,F,Sous-poids,No,Yes,Medium
+188,Chev,Riddoch,4/8/1975,Male,Obésité de classe I,Yes,Yes,Low
+189,Belita,Hodgets,11/26/2017,Femme,Poids normal Surpoids,Yes,Maybe,High
+190,Frieda,Baynam,8/15/2007,Male,Sous-poids,Yes,Yes,High
+191,Benedetto,Haston,3/18/1966,Homme,Sous-poids,Yes,Maybe,High
+192,Daffi,Pragnell,4/24/1988,Femme,Sous-poids,Yes,Yes,High
+193,Belita,Wetherburn,1/19/2001,F,Obésité de classe II,No,No,High
+194,Jim,Forrestall,8/31/1956,Female,Obésité de classe I,No,No,High
+195,Denny,Keld,5/30/1976,F,Sous-poids,Yes,No,Low
+196,Brianna,Kenright,9/11/1997,H,Obésité de classe II,No,Yes,Medium
+197,Brook,Agostini,2/25/1965,H,Obesité exteme,Yes,Maybe,High
+198,Mathilda,Shevlin,2/13/2000,H,Poids normal Surpoids,Yes,No,Medium
+199,Mia,Finch,5/18/1967,Femme,Obésité de classe I,Yes,Maybe,Medium
+200,Wright,Joslow,2/11/1948,Homme,Poids normal Surpoids,Yes,Maybe,Medium
+201,Arabel,Damant,2/24/1973,H,Obésité de classe II,No,No,Medium
+202,Irina,McNeachtain,12/2/1948,F,Obésité de classe I,No,Maybe,Medium
+203,Euphemia,Cromarty,1/19/1954,H,Sous-poids,Yes,Maybe,Low
+204,Minna,Sante,10/10/1965,Femme,Obésité de classe I,No,Yes,Medium
+205,Salvador,Smiths,10/24/2020,Femme,Obésité de classe III,No,Maybe,High
+206,Sena,Whitehead,6/11/1964,,Poids normal Surpoids,Yes,Maybe,Low
+207,Elton,Sinkins,10/25/2008,Male,Poids normal Surpoids,No,Yes,Low
+208,Bria,Pickerin,11/8/1953,H,Poids normal Surpoids,No,Yes,High
+209,Lenette,Goodrick,6/16/1946,Homme,Poids normal Surpoids,No,Maybe,Medium
+210,Hercule,Baiyle,2/27/1990,Homme,Poids normal Surpoids,No,Maybe,Low
+211,Niles,Harroway,10/12/1948,F,Obesité exteme,No,Maybe,Medium
+212,Orville,Ping,1/25/1930,Femme,Obésité de classe III,No,No,High
+213,Ave,MacAlpin,11/2/1943,Femme,Obésité de classe III,Yes,Yes,High
+214,Diana,Barns,9/2/2000,Male,Obesité exteme,Yes,No,High
+215,Auguste,Sheilds,4/10/2019,Homme,Obesité exteme,Yes,No,Medium
+216,Charmain,Varnes,1/16/1985,Femme,Obésité de classe II,No,No,Medium
+217,Adamo,Rembaud,12/1/1996,H,Poids normal Surpoids,Yes,Yes,High
+218,Lara,Huke,2/7/1973,F,Obésité de classe I,No,No,Low
+219,Ara,Cresser,6/25/2012,Female,Poids normal Surpoids,Yes,Yes,Medium
+220,Alysia,Donnachie,8/24/1936,Homme,Obésité de classe III,Yes,No,Low
+221,Byron,Ferens,9/27/2006,Homme,Obésité de classe II,Yes,Yes,Medium
+222,Luciano,Blincko,6/16/1970,H,Obésité de classe II,Yes,Yes,Medium
+223,Carmen,Ahrens,10/26/1959,Male,Obésité de classe III,Yes,No,Low
+,Reynold,Blackshaw,5/4/1935,F,Obésité de classe I,Yes,Maybe,Medium
+225,Costa,Lanfere,4/4/1987,,Obesité exteme,Yes,Maybe,Medium
+226,Paddy,Darkott,3/5/1931,Femme,Obesité exteme,Yes,Yes,Medium
+227,Gene,Whinray,7/15/1965,F,Obésité de classe I,No,Maybe,Medium
+228,,Burtwistle,6/14/1980,H,Obesité exteme,No,No,Low
+229,Marysa,Silvester,10/26/1934,F,Obésité de classe II,No,Maybe,Low
+230,Marsiella,Herion,7/26/1950,Femme,Obésité de classe III,No,No,High
+231,Hill,Sommerlie,4/19/1995,F,Obésité de classe I,No,No,High
+232,Kristo,Gutans,5/10/1976,H,Poids normal Surpoids,Yes,No,High
+233,Viv,Kindleysides,10/19/2013,Femme,Poids normal Surpoids,No,Maybe,Low
+234,Emlynne,Ormistone,12/9/1968,Femme,Sous-poids,No,Yes,Low
+235,Harald,Blaycock,4/23/1939,H,Sous-poids,No,No,Medium
+236,Flossie,Tames,12/28/1938,Homme,Obésité de classe III,Yes,No,High
+237,Jermaine,Rasch,2/1/1944,H,Obésité de classe I,No,Maybe,Low
+238,Reine,Twaits,10/7/1995,F,Obésité de classe III,Yes,Maybe,High
+239,Ralina,Ferentz,4/26/2018,Male,Obesité exteme,No,Yes,High
+240,Keri,Banker,7/11/2005,H,Sous-poids,Yes,No,High
+241,Hobard,MacPeice,8/15/1963,Female,Obésité de classe III,Yes,No,High
+242,Ethelyn,Harrhy,7/31/1970,H,Obésité de classe III,No,No,High
+243,Diahann,Gregoire,4/22/1970,H,Obésité de classe III,No,Maybe,Low
+244,Frederic,Chelam,2/28/1964,Femme,Obésité de classe I,No,Maybe,Medium
+245,Alick,Rodder,11/22/1982,Homme,Poids normal Surpoids,Yes,Maybe,Medium
+246,Alvira,Tamburi,5/6/1946,H,Sous-poids,Yes,Yes,Low
+247,Juliette,Liddyard,10/18/2006,Homme,Sous-poids,No,No,Low
+248,Gunner,Lubomirski,2/8/1958,Homme,Obésité de classe II,No,Maybe,Medium
+249,Rosanne,Gaiford,3/24/1943,Femme,Sous-poids,Yes,Yes,Low
+250,Elladine,Doone,7/10/1993,Male,Obésité de classe III,Yes,Maybe,High
+251,Huey,Harback,8/25/1990,F,Sous-poids,No,,Low
+252,Fayette,Foulser,8/5/2020,Male,Obesité exteme,Yes,No,High
+253,Saunder,Gaskarth,11/16/2019,Femme,Obésité de classe II,No,Maybe,Low
+254,Raleigh,Spatoni,12/17/2013,H,Poids normal Surpoids,Yes,Maybe,High
+255,Giulietta,Haughan,1/29/2009,Female,Obésité de classe I,Yes,Maybe,Low
+256,,Hornig,9/6/2017,F,Poids normal Surpoids,Yes,No,High
+257,Indira,Milmo,12/23/1972,Male,Obésité de classe I,No,Yes,High
+258,Iggy,McGrotty,1/11/2020,Male,Obésité de classe I,No,Yes,Medium
+259,Dorothy,Learmouth,10/25/1944,F,Obesité exteme,Yes,Yes,High
+260,Grissel,Ingram,11/8/2000,Male,Poids normal Surpoids,No,No,Medium
+261,Trudi,Garnsworthy,3/1/1952,Female,Obesité exteme,No,Yes,Low
+262,Tanitansy,Andreix,10/12/1981,Female,Obésité de classe III,Yes,Yes,Low
+263,Alisa,Sparwell,9/19/1954,F,Obésité de classe III,Yes,Yes,Medium
+264,Lezlie,Squirrell,5/18/1940,F,Obésité de classe III,Yes,Yes,Medium
+265,Paige,Hefferan,6/30/1968,Female,Poids normal Surpoids,No,Maybe,Medium
+266,Milly,Toombes,6/8/2005,Femme,Obesité exteme,Yes,No,High
+267,Hatty,Dumbreck,5/24/1997,H,Obésité de classe II,Yes,Maybe,Medium
+268,Cleavland,Sweetnam,11/1/1937,H,Poids normal Surpoids,No,Maybe,Low
+269,Ophelia,Ruske,5/31/1969,Homme,Sous-poids,Yes,Yes,Medium
+270,Jeromy,Anderl,3/19/2011,H,Obésité de classe III,Yes,Maybe,High
+271,Fernandina,Juggings,5/22/1950,F,Obésité de classe I,Yes,No,High
+272,Ofilia,McOrkil,8/23/1981,Male,Obésité de classe III,Yes,No,Low
+273,Aldon,Wolver,6/15/1947,Femme,Obesité exteme,No,Yes,Medium
+274,Raddie,Stileman,1/30/2007,F,Obésité de classe II,Yes,Yes,High
+275,Elsbeth,Newey,4/3/1931,Homme,Poids normal Surpoids,No,Maybe,Medium
+276,Jenn,Corrin,7/9/1988,H,Obésité de classe III,No,No,High
+277,Cosetta,Merida,12/26/2022,H,Obésité de classe I,No,Yes,
+278,Lynnell,Crispin,9/28/1995,Homme,Sous-poids,Yes,Yes,Low
+279,,Sanper,3/16/1992,Homme,Obesité exteme,Yes,Yes,
+280,Cate,Flannigan,4/7/2002,Femme,Poids normal Surpoids,No,Maybe,Medium
+,Justino,Gawthorpe,2/23/1963,,Obésité de classe II,No,Maybe,Low
+282,Amabel,Balham,1/12/1948,Male,Obésité de classe II,Yes,Maybe,Low
+283,Gae,Wetherill,10/14/1970,F,Poids normal Surpoids,Yes,Maybe,Low
+284,Arabela,Aspin,10/26/1933,Male,Poids normal Surpoids,No,No,Low
+285,Chiquita,Welham,3/15/1943,H,Sous-poids,Yes,No,High
+286,Lavinia,Rickcord,8/18/1945,Female,Obésité de classe III,Yes,No,High
+287,Erena,Katz,4/19/1942,,Poids normal Surpoids,Yes,Maybe,Low
+288,Nedi,Eagell,12/5/1961,Male,Obésité de classe III,No,No,Low
+289,Arlee,Vogl,7/13/1957,Male,Poids normal Surpoids,No,Maybe,High
+290,Robb,Sawfoot,2/24/1967,H,Sous-poids,Yes,No,High
+291,Marys,Asser,2/23/1939,Female,Obésité de classe II,No,Yes,Medium
+292,Estevan,Sellars,7/30/1939,F,Sous-poids,Yes,Maybe,High
+293,Arlana,Fursland,7/14/2003,Male,Poids normal Surpoids,No,Yes,Medium
+294,Cassandry,Dashkovich,12/4/1965,Femme,Obésité de classe I,No,No,Medium
+295,Moore,Gleed,9/30/1983,Homme,Sous-poids,Yes,No,High
+296,,Trevear,3/7/2012,Female,Obésité de classe I,No,Maybe,High
+297,Erwin,MacCauley,1/16/1961,Male,Poids normal Surpoids,No,Yes,Medium
+298,William,Sever,12/16/1955,Femme,Poids normal Surpoids,No,No,Medium
+299,Ronald,Enticott,10/25/1953,H,Obésité de classe III,No,Maybe,Low
+300,Clem,Pattesall,12/20/1946,Femme,Obésité de classe III,Yes,Yes,Low
+301,Kym,Hartland,12/20/1936,Female,Sous-poids,Yes,Maybe,High
+302,Appolonia,McLuckie,2/7/1990,Femme,Obésité de classe III,Yes,Maybe,High
+,Gerick,Bater,11/23/1954,Homme,Sous-poids,Yes,Yes,High
+304,Arvin,Ebbings,1/11/1950,H,Obésité de classe III,No,No,Low
+305,Bernadette,Roskruge,6/30/1968,Femme,Sous-poids,No,No,High
+306,Ignaz,Whylie,4/15/2006,Femme,Obesité exteme,Yes,No,High
+307,Stefanie,Baseggio,9/21/1953,H,Obésité de classe II,Yes,Yes,Low
+308,Sophronia,Natalie,2/8/1957,Homme,Sous-poids,Yes,Yes,High
+309,Berti,Tredger,8/17/1975,Male,Obesité exteme,No,No,Medium
+310,Marmaduke,Parradice,4/5/1984,Female,Obésité de classe II,No,No,Low
+311,Nelie,Bristow,5/8/1940,Homme,Obésité de classe I,Yes,Maybe,Low
+312,Cristal,Diack,4/14/1953,Female,Poids normal Surpoids,Yes,No,
+313,Reamonn,Vernham,1/2/1958,Homme,Poids normal Surpoids,No,Yes,High
+314,Shem,Bamborough,6/3/1953,Female,Obesité exteme,No,Maybe,Medium
+315,Elberta,Dunan,7/28/1986,F,Obésité de classe III,Yes,No,Medium
+316,Kalil,Rivallant,11/4/1974,,Obésité de classe I,No,No,High
+317,Sherry,Blanque,5/7/2020,F,Obesité exteme,Yes,No,Low
+318,Gwendolyn,Deyes,6/30/2005,H,Obésité de classe II,Yes,No,Low
+319,Con,McLoney,6/23/1974,Femme,Obésité de classe III,Yes,Maybe,High
+320,,Scandred,8/24/1963,H,Sous-poids,No,Yes,Medium
+321,Phillis,Besset,10/12/1933,F,Obesité exteme,Yes,Yes,Medium
+322,Jolyn,Bradman,3/7/1946,Femme,Obesité exteme,Yes,No,High
+323,Anya,Pindred,6/5/2005,Homme,Obésité de classe III,No,No,Medium
+324,Christa,Benoix,10/7/1981,H,Obésité de classe I,No,Maybe,High
+325,Tiena,MacFaell,7/3/1993,H,Obésité de classe II,No,Yes,Low
+326,Terencio,Fanton,6/7/1988,H,Obésité de classe II,Yes,Maybe,Medium
+327,Levi,Wroughton,4/29/1999,Male,Obesité exteme,Yes,Maybe,Medium
+328,Averyl,Ugo,11/4/1936,Femme,Poids normal Surpoids,Yes,,High
+329,Carola,Bunt,11/24/2001,Homme,Obésité de classe I,Yes,Yes,High
+330,Willabella,Kynnd,1/9/1936,Homme,Poids normal Surpoids,Yes,No,High
+331,Lavinia,Girvin,10/11/1986,Male,Poids normal Surpoids,No,No,Low
+,Gerhard,Celle,4/4/1997,Femme,Poids normal Surpoids,Yes,Yes,Medium
+333,Jody,Kirtland,8/18/1936,Female,Sous-poids,Yes,Yes,High
+334,Fredia,Bockler,6/25/1956,Male,Obesité exteme,No,No,Low
+335,Enrika,Washington,4/5/1991,H,Poids normal Surpoids,Yes,No,High
+336,Alfonse,Morford,2/12/1936,Female,Poids normal Surpoids,Yes,Maybe,High
+337,Tadd,Natwick,8/15/2016,Female,Obésité de classe II,Yes,Yes,High
+338,Ardene,Harpham,1/29/1953,Homme,Obesité exteme,No,No,Low
+339,Abbe,Ezzy,5/29/2007,F,Poids normal Surpoids,No,Maybe,High
+340,Leslie,Jobes,3/2/1975,H,Poids normal Surpoids,No,No,Low
+341,Jean,Janousek,6/17/1996,Female,Sous-poids,No,Maybe,
+342,Wilie,De Giovanni,11/25/1958,Homme,Sous-poids,No,Maybe,High
+343,Luz,Ardern,11/28/2022,Female,Sous-poids,No,No,High
+344,Carry,Bate,4/30/2014,,Obésité de classe II,No,No,High
+345,Cookie,Kennea,5/26/1967,Femme,Obésité de classe III,No,Maybe,High
+346,Charmion,Pallatina,10/21/2001,Male,Obésité de classe I,No,Yes,High
+347,Leah,Nation,6/7/1951,F,Obesité exteme,Yes,Maybe,Medium
+348,Modesty,Moyles,11/9/2003,H,Obesité exteme,Yes,Yes,Low
+349,Mike,Shillington,4/24/1963,Homme,Obésité de classe I,No,Maybe,Low
+350,Noel,Janus,12/15/2022,Female,Poids normal Surpoids,No,Maybe,Low
+351,Jeanna,Ugo,2/2/1990,Femme,Obésité de classe III,No,,Low
+352,Vail,MacLucais,12/3/1987,H,Obesité exteme,No,Yes,Medium
+353,Aimee,Vanyukhin,1/30/1999,Homme,Obésité de classe II,No,Maybe,Low
+354,Thacher,Hamshar,6/26/1982,Female,Obésité de classe III,No,Yes,High
+355,Brook,Sturm,1/7/2006,Female,Obésité de classe I,Yes,Yes,Low
+356,Sara-ann,Gerard,9/29/1970,Male,Obesité exteme,Yes,No,High
+357,Muffin,Messier,9/5/1931,Male,Obesité exteme,No,No,High
+358,Maje,Grummitt,8/30/1986,Homme,Obésité de classe I,Yes,,Medium
+359,Cornelia,Carss,7/3/1993,Female,Poids normal Surpoids,Yes,No,Low
+360,Matty,O'Dunneen,6/12/1958,Homme,Poids normal Surpoids,Yes,Yes,Medium
+361,Valerie,Guillotin,5/2/1931,Femme,Obésité de classe I,Yes,Yes,High
+362,Merna,Schofield,7/8/2018,Homme,Sous-poids,Yes,Maybe,Low
+363,Cyndie,Bulfoot,2/1/2006,H,Poids normal Surpoids,No,Maybe,High
+364,Cristiano,Dundin,9/26/2021,Femme,Poids normal Surpoids,Yes,Yes,High
+365,Guendolen,Grodden,1/29/2013,F,Sous-poids,No,No,Medium
+366,Cristina,Konzelmann,2/7/1952,Female,Obesité exteme,Yes,Maybe,High
+367,Gregorius,Remington,7/2/1970,H,Obesité exteme,No,Yes,Low
+368,Maddi,Hearnden,11/24/1933,H,Obésité de classe I,No,Maybe,Low
+369,Obed,Cattonnet,11/17/1935,Femme,Obésité de classe II,No,,
+370,Nissy,Jennaway,12/15/2001,Homme,Obésité de classe I,No,Maybe,Low
+371,Ephrem,Ferrant,5/25/2018,Male,Poids normal Surpoids,Yes,No,High
+372,Nap,McCritchie,3/27/2001,H,Poids normal Surpoids,No,No,Low
+373,Gauthier,MacCarrick,10/13/1978,Homme,Poids normal Surpoids,No,No,Low
+374,Pen,Sheward,1/2/1994,Male,Obesité exteme,No,No,Low
+375,Reece,Stowte,6/16/1956,F,Obesité exteme,Yes,Maybe,High
+376,Micheline,Rown,12/8/1993,Male,Obésité de classe II,No,Yes,Low
+377,Viola,Rodden,9/15/1930,Female,Obésité de classe II,Yes,Yes,Low
+378,Wolfie,Faill,3/17/2005,Homme,Obesité exteme,No,No,Medium
+379,Way,Mabey,11/16/1968,H,Poids normal Surpoids,No,No,Medium
+380,Humberto,Bambery,6/11/1935,,Obésité de classe I,No,Maybe,High
+381,Florida,Wilby,12/14/1930,F,Obesité exteme,Yes,No,Low
+382,Ros,Garthshore,10/26/1932,Male,Obésité de classe II,Yes,No,
+383,Jacquelyn,Ohanessian,3/22/1988,Female,Sous-poids,No,No,High
+384,Ferrell,Larder,8/5/1954,Femme,Poids normal Surpoids,No,No,Medium
+385,Penelopa,Aleksidze,2/27/1972,Male,Obesité exteme,Yes,Yes,Medium
+386,Alden,Birrel,7/31/2015,Female,Sous-poids,No,No,Low
+387,Alexandrina,Pagel,6/11/1937,Female,Poids normal Surpoids,No,Maybe,Low
+388,Sharon,Willisch,8/13/1949,Homme,Obésité de classe I,Yes,Yes,Low
+389,Torey,Crewe,11/26/1954,Femme,Obésité de classe I,No,Maybe,High
+390,Randi,De Freyne,11/30/1981,Femme,Obésité de classe II,No,Yes,High
+391,Marylinda,Heminsley,3/13/1990,Female,Sous-poids,No,Yes,
+392,Enid,MacRitchie,7/30/1991,H,Obesité exteme,Yes,No,Low
+393,Cara,Bernaert,10/29/1993,H,Obésité de classe II,No,Yes,Medium
+394,Minnie,Redier,8/2/2016,Female,Obesité exteme,Yes,Maybe,High
+395,Kendre,Livingstone,9/19/1953,Homme,Poids normal Surpoids,Yes,Maybe,Low
+396,Baxy,Egalton,9/17/2000,H,Obesité exteme,Yes,No,Low
+397,Obed,Chittem,9/25/1995,Femme,Obésité de classe II,Yes,Yes,Medium
+398,David,Acreman,6/3/2006,H,Obésité de classe I,No,No,Medium
+399,Joellen,Coxhell,9/8/1968,H,Obésité de classe III,Yes,No,Medium
+,Adriaens,Bramford,7/26/1940,Femme,Obésité de classe III,No,No,Low
+401,,Ayrs,2/10/1965,F,Obésité de classe III,Yes,,Low
+402,Margalit,Piercey,10/8/1958,F,Sous-poids,Yes,Maybe,Low
+403,Flinn,Gisbye,7/22/2003,Homme,Sous-poids,No,Yes,Low
+404,Pam,Tapsfield,10/21/1996,Male,Obesité exteme,Yes,Maybe,Low
+405,Mariquilla,Siggee,9/21/1987,Homme,Poids normal Surpoids,No,No,Low
+406,Umeko,Rove,8/7/1951,Male,Poids normal Surpoids,Yes,No,High
+407,Avrit,Tourner,8/1/2011,H,Sous-poids,Yes,Yes,High
+408,Willyt,Devigne,10/25/1960,H,Obésité de classe II,No,Yes,High
+409,Loleta,Leathart,7/18/1975,Homme,Obésité de classe I,No,Maybe,Low
+410,Manolo,Meakes,1/12/1936,F,Obésité de classe I,No,Maybe,Medium
+,Onfre,Clissett,5/27/1970,Homme,Sous-poids,Yes,No,High
+412,Gerardo,Upham,3/10/1981,Homme,Sous-poids,No,Maybe,Low
+413,Ysabel,Muston,6/21/1974,F,Obesité exteme,No,Yes,High
+414,Joell,Wagerfield,2/18/1942,Femme,Obésité de classe II,No,Yes,Medium
+415,Koren,Cridge,6/5/2004,Homme,Obesité exteme,No,Yes,Medium
+416,Brunhilda,Andries,11/23/1971,Male,Sous-poids,Yes,Yes,Medium
+417,Carter,Jollye,8/26/1948,Female,Poids normal Surpoids,No,Maybe,Medium
+418,Niko,Breakwell,8/29/2010,Female,Sous-poids,No,Maybe,Low
+419,Wandie,Domleo,4/20/1957,Male,Sous-poids,No,No,Low
+420,Kristofor,Seys,11/12/2017,Male,Obésité de classe III,No,Maybe,Medium
+421,Bond,Tomasi,6/10/2007,Female,Sous-poids,Yes,No,High
+,Rikki,Vinau,3/19/1949,F,Obesité exteme,No,No,Low
+423,Nevin,Freear,4/18/1963,H,Obésité de classe II,Yes,Yes,Medium
+424,Holly-anne,O' Sullivan,10/26/1937,Male,Obésité de classe III,No,Maybe,High
+425,Junette,Newarte,3/31/1980,Femme,Obésité de classe II,No,Yes,Medium
+426,Juliet,Kettow,4/22/1945,Female,Obésité de classe III,No,No,Low
+427,Fonsie,Lichtfoth,5/30/1941,Female,Poids normal Surpoids,No,No,Low
+428,Amandie,Moreland,3/29/2022,Femme,Obésité de classe I,Yes,No,Medium
+429,Donnajean,Crispin,6/23/1970,Female,Poids normal Surpoids,No,Maybe,Low
+430,Lelia,Yatman,8/2/1935,Femme,Obésité de classe III,Yes,Maybe,High
+431,Neysa,Raeside,3/4/1976,Female,Obésité de classe II,Yes,No,Low
+432,Dominga,Gorgen,12/11/2009,Homme,Obesité exteme,No,No,Medium
+433,Meriel,Huntingford,7/2/1961,Homme,Obésité de classe III,Yes,Yes,High
+434,Zabrina,Tollmache,8/7/2009,Homme,Poids normal Surpoids,No,No,High
+435,Antonia,Busst,9/11/1938,H,Obésité de classe II,Yes,No,Low
+436,Nels,Liston,4/25/1950,Male,Sous-poids,No,No,Low
+437,Julius,Leman,1/18/1931,Femme,Poids normal Surpoids,Yes,Yes,Medium
+438,Ruthanne,Wyeld,7/16/1940,Male,Obésité de classe I,No,No,High
+439,Levy,Wilne,3/17/1949,F,Obesité exteme,No,No,Low
+440,Calla,Pellman,10/26/1983,H,Poids normal Surpoids,No,No,Medium
+441,Bernardo,Feeney,10/16/1952,F,Obesité exteme,No,Maybe,Medium
+442,Elias,Alfonsetti,9/10/1973,Female,Obesité exteme,No,Maybe,Low
+443,Darryl,Egel,8/9/1967,F,Poids normal Surpoids,Yes,Yes,High
+444,Dana,Etheredge,8/15/2010,Male,Obesité exteme,No,Maybe,Low
+445,Kynthia,Kiffe,4/20/1993,H,Poids normal Surpoids,No,Maybe,Medium
+446,Bernadene,McCormack,2/28/1949,Male,Obésité de classe I,Yes,Yes,Medium
+447,Genna,Grayham,11/15/1998,Female,Sous-poids,Yes,Maybe,Low
+448,,Winney,5/1/1938,F,Obésité de classe I,No,Yes,Medium
+449,Rutter,Adey,5/1/1982,F,Obésité de classe II,No,Yes,Low
+450,Kimbra,Lademann,12/26/2004,Male,Obésité de classe III,No,Maybe,Medium
+451,Anne-marie,O'Giany,10/19/1993,Homme,Obésité de classe II,No,No,Medium
+452,Rutherford,Kaplan,1/7/1986,H,Poids normal Surpoids,Yes,Maybe,Low
+453,Charlton,Dobbin,8/14/1939,Homme,Poids normal Surpoids,Yes,Maybe,High
+454,Clari,Trethewey,6/7/2005,H,Obesité exteme,Yes,Yes,Medium
+455,Wilfred,Itzig,3/10/1945,H,Poids normal Surpoids,No,Maybe,Low
+456,Maura,Glanton,1/20/1951,H,Obesité exteme,Yes,Yes,Low
+457,Orion,Aldren,4/9/1970,Male,Poids normal Surpoids,Yes,No,High
+458,Susann,Comley,7/22/2010,Female,Obésité de classe III,Yes,Maybe,
+,Elisa,Acutt,9/20/1982,H,Obésité de classe III,No,No,High
+460,Dotty,Giddens,8/3/1968,F,Obésité de classe II,No,Yes,Medium
+461,Arlette,Sheaber,4/28/2020,Female,Poids normal Surpoids,Yes,Maybe,Low
+462,Malissa,Shoulder,9/16/1942,Male,Obésité de classe III,No,Maybe,High
+463,Angelina,Rubinovitch,10/10/2008,Male,Obesité exteme,No,Yes,Medium
+464,Vassily,Gribbell,1/18/1993,Female,Obésité de classe I,Yes,No,Medium
+465,,Antic,9/14/1968,F,Obésité de classe I,Yes,Maybe,High
+466,Umeko,Tomini,1/1/1997,Femme,Obesité exteme,Yes,No,Medium
+467,Lesley,Veschambes,2/20/2008,F,Obésité de classe III,No,Yes,High
+468,Karole,Gilardi,8/21/1993,Femme,Poids normal Surpoids,Yes,No,
+469,Filide,Caney,2/7/2007,H,Obésité de classe III,Yes,No,Medium
+470,Lenna,Lots,3/12/2002,Femme,Obésité de classe I,No,No,Low
+471,Cello,Worssam,9/4/1973,F,Obésité de classe I,No,Yes,Medium
+472,Camel,Timpany,5/2/1931,H,Obesité exteme,No,Yes,High
+473,Morley,Oliphard,5/20/1955,Femme,Obésité de classe II,Yes,No,Low
+474,Hilario,Pitt,7/19/1937,Male,Obésité de classe III,No,No,Low
+475,Charin,O'Dowd,10/16/1983,Male,Poids normal Surpoids,Yes,Maybe,Low
+476,Gar,Aimable,2/9/1974,Male,Poids normal Surpoids,No,,High
+477,Judon,Work,7/9/2001,H,Obésité de classe II,Yes,Maybe,High
+478,Trina,Calyton,7/11/2003,Female,Obésité de classe I,No,,High
+479,Garald,Brokenshire,7/8/2011,F,Obésité de classe II,Yes,No,Low
+480,Zea,Labbati,1/19/1965,Femme,Obesité exteme,No,No,High
+481,Kayle,O'Loughane,12/10/1959,H,Sous-poids,Yes,Yes,Low
+482,Theodor,Brewer,6/13/1996,Femme,Sous-poids,No,Yes,Low
+483,Lindsey,Pengilly,7/21/1953,Femme,Poids normal Surpoids,Yes,Yes,Medium
+484,Lucais,Coveny,7/15/1998,F,Obésité de classe III,No,Maybe,Medium
+485,Patrizia,Perillio,10/30/1985,F,Sous-poids,Yes,Yes,High
+486,Liliane,Dottrell,8/2/1947,H,Obésité de classe II,Yes,No,High
+487,Misti,Rispine,2/2/1942,Femme,Sous-poids,Yes,Yes,High
+488,Nadine,Chipperfield,7/10/1971,F,Obesité exteme,No,Yes,Low
+489,Bartlet,Vanyutin,2/22/1988,,Obésité de classe III,Yes,No,Low
+490,Jemmie,Adel,6/10/2008,Female,Sous-poids,Yes,Maybe,High
+491,Lyn,Peniello,1/14/1966,Femme,Obesité exteme,No,Yes,Low
+492,Nita,Kubach,12/16/1992,F,Sous-poids,No,No,Medium
+493,Sheppard,Danaher,4/16/2014,Homme,Obésité de classe II,Yes,Maybe,High
+494,Lovell,Jozsef,6/25/1948,F,Poids normal Surpoids,Yes,Maybe,Low
+495,Merrile,Vidyapin,8/25/2019,Female,Poids normal Surpoids,Yes,No,High
+496,Connor,Elven,8/6/1938,Female,Obésité de classe II,Yes,Yes,Low
+497,Geri,Duckinfield,8/2/1935,H,Sous-poids,No,No,Medium
+498,Woodie,Myhan,3/21/1930,Femme,Obesité exteme,No,Maybe,Low
+499,Cami,Gaymar,8/18/1959,Femme,Obésité de classe III,No,No,High
+500,Hernando,Pavett,7/5/1951,Male,Obésité de classe II,No,,Low
+501,Ludovika,Trower,4/10/1952,Male,Poids normal Surpoids,No,No,Low
+502,Nelle,Servis,12/22/1962,H,Obésité de classe III,No,Yes,High
+503,Annaliese,Gabb,9/7/1940,F,Sous-poids,Yes,Maybe,Medium
+504,Claudianus,ducarme,3/12/2011,Male,Poids normal Surpoids,Yes,Yes,High
+505,,Dinnington,12/22/1956,F,Obésité de classe III,Yes,No,High
+506,Gamaliel,Rottery,10/11/1930,H,Obesité exteme,Yes,Maybe,High
+507,Lesli,Woodall,7/24/1950,Homme,Obesité exteme,No,No,Medium
+508,Tabbie,Bredes,3/20/1982,F,Obesité exteme,No,No,Medium
+509,Linnie,Peplow,1/4/1939,Homme,Obésité de classe II,Yes,No,High
+510,Arlee,Haffner,2/9/1931,Male,Sous-poids,Yes,Yes,Medium
+511,Drud,Orknay,8/1/1984,Femme,Poids normal Surpoids,Yes,Maybe,Low
+512,Carmen,Lindenstrauss,4/9/1979,Female,Obésité de classe II,Yes,Yes,Low
+513,Nicoli,Mallabar,7/9/1967,H,Obésité de classe III,No,Maybe,Medium
+514,Murray,Harkin,4/25/2008,Male,Obésité de classe I,Yes,Yes,Medium
+515,Annice,Slessar,9/22/1948,Femme,Obésité de classe II,No,Maybe,High
+516,Carr,Wetter,12/17/1978,Male,Poids normal Surpoids,Yes,Maybe,Low
+517,Annamarie,Dimitrescu,10/29/1993,Male,Sous-poids,No,Maybe,
+518,Artus,Tainton,8/13/2019,Male,Obésité de classe II,No,Yes,High
+519,Lezley,Greer,7/25/1951,Female,Obésité de classe I,No,Maybe,High
+520,Juliana,Shrive,8/26/1980,,Obésité de classe II,No,Maybe,Low
+521,Roseanna,Uvedale,2/3/1937,H,Poids normal Surpoids,No,Yes,Medium
+522,Tommy,Pentecust,7/25/1936,Femme,Poids normal Surpoids,No,Maybe,Low
+523,Sallyann,Glasson,1/12/2002,H,Obésité de classe I,No,Yes,Low
+524,Delia,Minnis,1/8/2024,Homme,Obesité exteme,Yes,,High
+525,Wrennie,Ridding,7/1/1955,Female,Obésité de classe III,Yes,No,Low
+526,Huntington,Puttergill,3/31/1941,Homme,Obésité de classe II,No,Yes,Low
+527,,Mattson,11/24/2000,Femme,Poids normal Surpoids,No,No,Medium
+528,,Dandie,1/17/1972,Homme,Obésité de classe III,No,Maybe,
+529,Crin,Keneforde,1/26/2008,Homme,Obésité de classe II,No,Maybe,High
+530,Michail,Lindwasser,5/11/1933,Homme,Obésité de classe I,Yes,No,High
+531,Joye,Emnoney,2/3/1969,Female,Obésité de classe II,Yes,Maybe,Low
+532,Yalonda,Gudeman,8/6/1942,Femme,Obésité de classe II,No,,High
+533,Constancy,Broadist,11/19/2020,Femme,Obésité de classe I,Yes,No,
+534,Jenn,Fidell,8/21/2005,Femme,Obésité de classe II,Yes,Maybe,High
+535,Ilene,Scotford,10/18/2002,,Obésité de classe II,No,No,High
+536,Kaila,Linbohm,8/6/1954,Homme,Obésité de classe I,No,Yes,Low
+537,Kathrine,Makepeace,5/28/1970,Female,Obésité de classe II,Yes,No,Low
+538,Helenelizabeth,Lark,6/14/1965,H,Obésité de classe II,Yes,No,High
+539,,Balls,9/27/2016,F,Obésité de classe II,No,Maybe,Medium
+540,Candide,Skillitt,10/27/2003,Homme,Poids normal Surpoids,No,Yes,High
+541,Verine,Sharland,5/3/2022,Homme,Obesité exteme,No,Maybe,Medium
+542,Hi,Gotch,11/6/1983,Homme,Obésité de classe I,No,No,Medium
+543,Teriann,Jebb,10/25/1944,H,Sous-poids,No,Maybe,High
+544,Betteanne,Gauvin,5/30/1994,Homme,Obésité de classe II,Yes,Yes,Medium
+545,Errick,Franchioni,1/7/1935,H,Sous-poids,No,Yes,Low
+,Nike,Mayho,9/25/1959,Male,Obésité de classe III,No,No,Medium
+547,Cassi,Pidler,11/4/1964,Homme,Sous-poids,Yes,Yes,
+548,Devlin,Dwyr,10/2/1932,Homme,Sous-poids,Yes,Yes,Medium
+549,Theodora,Peeter,10/19/1936,F,Sous-poids,No,Yes,Medium
+550,Gerrie,Shelvey,10/24/1935,Female,Obésité de classe II,No,Maybe,Medium
+551,Arch,Drake,9/30/1953,Femme,Poids normal Surpoids,No,Maybe,Medium
+552,Kalvin,Gidley,9/27/1971,Male,Obésité de classe III,No,Maybe,Low
+553,Silas,Drewet,11/27/2017,Femme,Obesité exteme,Yes,No,Low
+554,Ashley,Ertel,12/5/2013,Homme,Sous-poids,Yes,No,Medium
+555,Bryn,Le Huquet,12/9/1956,F,Obésité de classe III,No,Yes,Medium
+556,Cher,Thorsby,1/29/1957,,Obesité exteme,No,Maybe,Low
+557,Siouxie,Sakins,7/12/1938,Femme,Obesité exteme,Yes,Maybe,
+558,Dick,Scobbie,1/8/1948,Female,Sous-poids,Yes,Maybe,Medium
+559,Neall,Casacchia,5/7/2013,Female,Obésité de classe II,Yes,No,High
+560,Ardine,Martin,11/1/1984,Homme,Obésité de classe III,No,Maybe,Low
+561,Yolande,Gooderridge,10/10/1960,Female,Obésité de classe I,No,Yes,Low
+,Cecilia,Hubner,8/17/1935,Femme,Obesité exteme,No,No,Low
+563,Ignacius,Keeping,10/10/2020,Femme,Obesité exteme,Yes,No,Low
+564,Wendie,Donkersley,4/27/1966,Femme,Obesité exteme,Yes,Maybe,Medium
+565,Ossie,Jeskins,5/15/1956,H,Sous-poids,Yes,No,Low
+566,Jennica,Delagnes,1/19/1948,Homme,Obésité de classe I,No,Maybe,Medium
+567,Raphaela,Trevaskis,11/26/2008,H,Obésité de classe II,No,Yes,Medium
+568,,Hurford,9/18/1977,Homme,Obesité exteme,No,Maybe,Medium
+569,Guy,Acreman,3/23/2013,F,Poids normal Surpoids,No,Yes,Low
+570,Bendix,Fasse,6/21/2014,F,Obésité de classe I,Yes,Maybe,Low
+571,Nannie,Syms,10/11/2020,Femme,Poids normal Surpoids,Yes,No,High
+572,Tova,Finding,3/12/2005,H,Obésité de classe III,No,Yes,High
+573,Evered,Testo,8/17/1978,Homme,Sous-poids,Yes,Yes,High
+574,Skell,Waliszewski,11/29/2016,H,Poids normal Surpoids,Yes,No,High
+575,Evanne,Belsher,1/30/1962,F,Obésité de classe II,Yes,Maybe,High
+576,Leandra,Buglar,3/29/1968,Female,Poids normal Surpoids,No,Maybe,Low
+577,Aurel,Crippen,9/7/2022,H,Obésité de classe I,No,No,High
+578,Cort,Jenik,3/17/1962,Femme,Obésité de classe II,Yes,Yes,Medium
+579,Maximo,Cathcart,6/2/1962,Homme,Poids normal Surpoids,Yes,Yes,High
+580,Darlene,Beacon,10/3/1940,F,Obésité de classe III,Yes,Maybe,Medium
+581,Gavin,McPhillips,5/28/1982,H,Sous-poids,No,Yes,Low
+582,Corrie,Strass,12/23/1991,Homme,Sous-poids,Yes,Yes,Low
+583,Gisella,Goodbar,1/25/2008,Femme,Obésité de classe I,No,Yes,Medium
+584,Alfons,Cammack,12/27/2011,Female,Obésité de classe I,No,Maybe,Medium
+585,Zerk,Sharply,11/4/1983,Male,Poids normal Surpoids,Yes,No,Low
+586,Ranna,Vann,11/15/2020,F,Obésité de classe I,Yes,Maybe,Low
+587,Nico,Adin,9/30/1982,Homme,Obésité de classe III,Yes,Maybe,High
+588,Vivienne,Butchers,12/16/2001,Male,Obesité exteme,No,Maybe,Low
+589,Ailey,Tinniswood,2/4/1956,F,Obésité de classe II,No,No,Low
+590,Cammi,Mcsarry,3/3/1993,Male,Obésité de classe III,No,No,Medium
+591,Matilda,Bernaldo,7/28/1990,Male,Obésité de classe III,Yes,Yes,High
+592,Reamonn,Casford,7/1/1936,Femme,Obesité exteme,No,Maybe,Medium
+593,Sascha,Habershaw,10/23/1960,H,Obésité de classe III,No,Maybe,High
+594,Lauree,Casbourne,4/5/1933,H,Obésité de classe III,No,Yes,Low
+595,Grannie,Hackleton,1/30/1974,Homme,Poids normal Surpoids,Yes,Yes,High
+596,Lawry,Meininking,4/12/1980,Male,Poids normal Surpoids,No,Maybe,Low
+597,Emylee,Brock,3/28/1939,Male,Obesité exteme,Yes,Maybe,Low
+598,Kris,De Domenici,1/28/1940,Male,Obésité de classe III,No,No,Low
+599,Cale,Maber,3/4/1940,Male,Obésité de classe I,Yes,Yes,Medium
+600,Amerigo,Mathiassen,10/12/2023,Femme,Obésité de classe III,No,No,Low
+601,Jamey,Worner,8/23/1956,Femme,Poids normal Surpoids,Yes,No,Low
+602,Dael,Tilford,3/17/1983,Male,Poids normal Surpoids,No,Yes,Medium
+603,Northrup,Stillmann,4/19/2016,F,Obésité de classe II,Yes,No,High
+604,Derron,Pettett,5/16/1996,F,Obésité de classe I,Yes,No,Medium
+605,Clarette,Tregaskis,3/14/2015,Femme,Obésité de classe II,Yes,Maybe,High
+606,Spense,Padillo,11/16/1957,F,Obesité exteme,No,Maybe,Low
+607,Pauletta,Martinelli,3/13/1953,Femme,Obésité de classe II,Yes,No,High
+608,Maybelle,Cloutt,3/20/2013,Femme,Sous-poids,No,Yes,Low
+609,Kaleena,Lambal,7/4/1964,Homme,Poids normal Surpoids,No,Yes,Low
+610,Laurens,Collicott,5/2/1985,H,Obésité de classe II,No,Maybe,Low
+611,Quintana,Waiting,11/25/1992,Femme,Obésité de classe III,No,No,Low
+612,Magdalena,Abrahamian,12/17/1987,H,Obésité de classe I,No,No,Low
+613,Iormina,Verlinde,12/26/2010,Male,Obésité de classe II,No,Yes,High
+614,Carny,Gasticke,10/10/1978,Male,Obesité exteme,No,Maybe,High
+615,Fleurette,Mayor,12/9/1988,Female,Poids normal Surpoids,No,No,High
+616,Elene,Hare,10/13/1998,Female,Obésité de classe II,No,No,Medium
+617,Lonny,Musicka,2/6/1943,F,Poids normal Surpoids,No,Maybe,Medium
+618,Ardyth,Cawthery,7/11/1991,Femme,Poids normal Surpoids,Yes,Yes,Low
+619,Carlita,Danieli,4/27/1995,H,Obésité de classe II,No,Yes,Medium
+620,Winslow,Maddicks,9/6/2008,H,Sous-poids,No,No,Medium
+621,,Ranfield,2/9/1937,Male,Sous-poids,Yes,Maybe,High
+622,Romeo,Laurence,1/11/1978,H,Obésité de classe III,No,No,Low
+623,Ross,Probet,12/20/1941,H,Sous-poids,No,Maybe,Low
+624,Jorie,Coultass,4/16/1989,H,Poids normal Surpoids,No,No,Medium
+625,Darla,Adams,1/30/1937,Female,Obésité de classe III,No,,Low
+626,Fleur,Oram,3/26/1950,Female,Obesité exteme,Yes,Yes,High
+627,Ira,Dibner,12/31/1973,H,Poids normal Surpoids,Yes,Maybe,Low
+628,Perl,Grosier,9/15/2005,Homme,Obésité de classe II,No,Yes,Low
+629,Sebastiano,Bernlin,9/29/2016,Male,Obésité de classe II,No,Yes,Medium
+630,Lexi,Jenoure,11/13/2004,F,Obesité exteme,Yes,No,High
+631,Ole,Melross,8/2/1991,Homme,Poids normal Surpoids,Yes,Yes,High
+632,Darill,Tumielli,1/9/2003,Female,Poids normal Surpoids,No,Yes,Low
+633,Harland,Vane,6/18/1941,Male,Poids normal Surpoids,No,No,Low
+634,Prudy,Akeherst,8/1/1979,Femme,Obésité de classe I,No,Maybe,Low
+,Barnie,Lawless,8/29/2010,H,Obésité de classe I,No,Yes,Low
+,Oates,Danat,11/7/1994,H,Sous-poids,No,Yes,Medium
+637,Lindi,Haste,4/14/2017,Homme,Sous-poids,Yes,Yes,High
+638,Lainey,Jarmain,11/21/2019,Female,Obésité de classe III,No,Yes,Medium
+639,Ravi,Clemence,7/22/1953,H,Obesité exteme,Yes,Maybe,High
+640,Halette,Cordeix,1/4/1958,F,Obesité exteme,Yes,Yes,
+641,Herbie,Ormonde,10/9/1931,H,Poids normal Surpoids,Yes,Yes,High
+,Jennie,Emm,7/8/1963,Female,Poids normal Surpoids,No,Yes,Low
+643,Briant,Neathway,6/16/2015,F,Poids normal Surpoids,No,Maybe,Medium
+644,Marris,Serot,12/16/1944,F,Sous-poids,Yes,Maybe,Low
+645,Sibby,Clawsley,8/25/1974,Femme,Obesité exteme,No,Yes,Medium
+646,Bronny,Keenan,10/21/2013,,Sous-poids,Yes,Maybe,High
+647,Enrichetta,Ruslinge,5/13/1995,Femme,Obésité de classe II,No,No,High
+648,Therese,Edney,6/16/1943,Male,Poids normal Surpoids,No,No,Low
+649,Dickie,O'Hannay,1/31/1937,Femme,Obésité de classe II,No,Yes,High
+650,Carmine,Denys,10/7/1986,Homme,Obésité de classe III,No,No,Medium
+651,Florina,Postance,5/3/1981,H,Poids normal Surpoids,Yes,Yes,Medium
+652,Dannel,Dusey,4/16/1937,Female,Poids normal Surpoids,Yes,No,Medium
+653,Phylis,Kenlin,12/8/1993,H,Sous-poids,No,No,
+654,Magnum,Prin,11/27/2008,Femme,Obésité de classe I,No,Maybe,High
+655,,Staining,10/18/1968,Femme,Poids normal Surpoids,No,Yes,Low
+656,Traci,Bassano,7/29/1949,Femme,Obésité de classe III,No,No,Medium
+657,Hazel,Oakden,3/27/2018,Male,Obésité de classe II,Yes,Yes,High
+658,Belle,Tripp,2/7/2009,F,Sous-poids,Yes,,High
+659,Merry,Rudham,12/24/2009,H,Poids normal Surpoids,No,No,Low
+660,Othilia,Waterfield,8/9/2017,Homme,Sous-poids,Yes,No,Low
+661,Van,Deaton,11/28/1935,Femme,Obésité de classe II,Yes,Yes,High
+662,Liesa,Lowing,10/10/1990,Female,Obésité de classe II,Yes,Yes,Low
+663,Davie,Herety,8/17/1949,Male,Obesité exteme,No,No,Low
+664,Brandy,Mival,6/12/1964,F,Sous-poids,Yes,Maybe,Medium
+665,Chauncey,MacKeeg,10/13/2014,Femme,Obésité de classe I,Yes,Yes,Low
+666,Thaddus,Tebbut,3/6/1999,Female,Obesité exteme,No,No,Medium
+667,,Bartel,10/13/1934,Male,Obésité de classe III,No,Yes,Low
+668,Viki,Redshaw,1/14/1947,H,Obesité exteme,Yes,Maybe,Medium
+669,Cornie,Danilchev,10/7/1935,Male,Obésité de classe I,Yes,Maybe,Medium
+670,Garrett,Flanders,3/14/1946,Femme,Obésité de classe I,No,Maybe,Medium
+671,Letizia,Featherstonhaugh,9/7/1990,Female,Obésité de classe III,Yes,Maybe,High
+672,Fairleigh,Coaster,3/31/1946,Femme,Obésité de classe II,Yes,No,Low
+673,Nathalia,Eborn,3/3/2018,Homme,Poids normal Surpoids,No,Maybe,Low
+674,Fernanda,Stoddard,10/18/1974,Female,Poids normal Surpoids,No,Yes,High
+675,Diann,Springell,4/11/2012,Femme,Obésité de classe II,No,No,High
+676,Rhoda,Schurcke,12/19/2005,Homme,Sous-poids,Yes,No,High
+677,Valentino,Agate,9/1/1966,H,Obesité exteme,No,Maybe,High
+678,Fleurette,Folkerts,10/25/1932,Homme,Obésité de classe II,Yes,Yes,Low
+679,Kristian,Sooper,8/12/1982,F,Sous-poids,Yes,No,Medium
+680,Alikee,Winchester,9/25/1999,Femme,Obésité de classe III,Yes,Yes,Medium
+681,Carmencita,Garvey,6/7/1998,Male,Obésité de classe III,Yes,No,High
+682,Paxton,Shelliday,11/29/1955,H,Obésité de classe II,Yes,No,
+683,,Althrope,12/23/1950,Femme,Obésité de classe II,Yes,Yes,High
+684,Livvy,Caccavella,7/1/2019,Homme,Obésité de classe III,Yes,Yes,Medium
+685,Garwin,Harkes,12/9/1988,Female,Poids normal Surpoids,Yes,No,
+686,Joseph,Clelle,5/24/1956,H,Obesité exteme,No,Maybe,Medium
+687,Clemmie,Gass,4/18/1933,Femme,Sous-poids,No,No,Low
+688,Domingo,Dounbare,10/19/2020,Homme,Obésité de classe III,No,No,Low
+689,Junina,Corn,1/4/1960,Femme,Obesité exteme,Yes,Yes,High
+,Anastassia,McCaffrey,10/28/1997,F,Sous-poids,No,No,Low
+691,Brinna,Brockest,6/18/2023,Femme,Obésité de classe III,Yes,Maybe,Low
+692,Kelsey,Hovenden,3/27/1959,Homme,Poids normal Surpoids,Yes,No,Medium
+693,Salem,Coull,9/28/1982,H,Obésité de classe I,Yes,Yes,High
+694,Darbee,Beesey,11/6/1978,Female,Obesité exteme,Yes,Yes,
+695,,Lamba,9/2/1933,H,Obésité de classe III,Yes,No,Medium
+696,Nester,McCoughan,8/10/1968,H,Obésité de classe III,No,Yes,Low
+697,Wallache,Somerled,10/21/1973,Femme,Sous-poids,No,No,Low
+698,Monika,Woollett,4/18/1938,H,Poids normal Surpoids,No,Yes,High
+699,Dore,Helsdon,1/5/1951,Female,Poids normal Surpoids,Yes,No,Low
+700,Rois,Mac Giolla Pheadair,3/4/1948,Femme,Obesité exteme,Yes,Yes,Medium
+701,Wendell,Meere,4/20/1987,Female,Obésité de classe II,No,Maybe,High
+702,Noreen,Peyes,6/27/2010,Femme,Obesité exteme,Yes,No,High
+703,Costa,Munks,2/28/1934,Male,Sous-poids,Yes,Yes,Medium
+704,Doug,Bareham,5/18/2004,Female,Sous-poids,No,Yes,Medium
+705,Alexandrina,Masi,1/26/2004,Male,Obésité de classe I,Yes,Yes,Medium
+706,Cynde,McCrackan,12/1/2005,Femme,Obésité de classe III,No,No,High
+707,,Paling,3/27/1992,Female,Obésité de classe II,Yes,Yes,Medium
+708,Dorian,Austick,1/14/1944,Female,Obésité de classe II,Yes,Yes,Low
+709,Andrew,Burhouse,11/9/2020,Homme,Poids normal Surpoids,No,Yes,High
+710,Willi,Dalgarnowch,5/28/1959,Femme,Sous-poids,No,No,Low
+711,Henriette,Quinton,5/17/1977,Homme,Obésité de classe I,Yes,Maybe,Low
+712,Pace,Guntrip,4/29/1945,Femme,Sous-poids,Yes,Yes,Low
+713,Johnna,Habron,4/21/1964,Homme,Obesité exteme,Yes,No,
+714,Charlton,Metheringham,4/28/1982,H,Obésité de classe III,No,Maybe,Medium
+715,Rachelle,Piquard,9/1/1938,F,Obésité de classe II,No,No,Low
+716,Cyndie,Kubala,12/17/2015,Femme,Obésité de classe II,No,No,Low
+717,Quintus,Horning,7/18/1997,H,Obésité de classe I,Yes,Maybe,Low
+718,Joete,Liverseege,8/16/2023,Homme,Obesité exteme,Yes,Maybe,Medium
+719,Bennett,Ransome,10/19/1976,F,Obesité exteme,Yes,Yes,Medium
+720,Timmie,Leveret,9/5/1951,Female,Obésité de classe II,Yes,No,Medium
+721,Stevana,Pick,1/3/1942,H,Obésité de classe I,No,Maybe,Low
+722,Tessi,Regler,12/14/1983,Femme,Sous-poids,Yes,No,High
+723,Fletch,Jime,10/28/2020,Male,Obesité exteme,Yes,Yes,Low
+724,Derron,Nehl,12/11/1938,Female,Obésité de classe I,No,Maybe,High
+725,Ursala,Ziemsen,12/29/2016,F,Obésité de classe III,No,Yes,Medium
+726,Flem,Heartfield,11/29/1966,Male,Poids normal Surpoids,No,Maybe,Low
+727,Bryn,Delgardo,10/10/1976,Female,Obésité de classe I,Yes,Yes,High
+728,Stoddard,de Almeida,11/21/1979,Femme,Poids normal Surpoids,No,No,High
+729,Milena,Pritchitt,7/13/1958,Homme,Obesité exteme,No,Yes,Medium
+730,Romeo,Swatheridge,8/7/1970,Homme,Poids normal Surpoids,Yes,Yes,High
+731,Addy,Rebillard,8/20/1995,Femme,Sous-poids,Yes,Maybe,Low
+732,Celesta,Pendrigh,4/27/1947,Female,Obésité de classe III,No,Yes,Low
+733,Carmine,Momery,8/7/1935,Femme,Obésité de classe II,No,Maybe,Medium
+734,Ranice,MacTrustrie,7/27/2012,Homme,Poids normal Surpoids,No,No,High
+735,Kirsteni,Bleddon,6/16/2004,Homme,Obésité de classe II,Yes,Yes,High
+736,Reagen,Ronisch,2/20/2020,Male,Poids normal Surpoids,No,No,Low
+737,Galven,Medgewick,9/22/2008,Femme,Obésité de classe II,No,Maybe,Medium
+738,Cirilo,Elsie,8/10/1953,Femme,Sous-poids,Yes,No,Low
+739,Siusan,Kahane,6/12/1960,Female,Obésité de classe I,Yes,Yes,High
+740,Caryl,Pettegree,9/13/1984,F,Poids normal Surpoids,No,No,High
+741,Ives,Kinvig,6/19/1981,F,Poids normal Surpoids,No,Maybe,Low
+742,Dyana,de Guise,6/28/1934,Male,Obesité exteme,No,No,Low
+743,Barbabas,Maren,12/3/1998,Homme,Obésité de classe II,No,No,High
+744,Nadean,Elphinstone,12/23/1946,Femme,Sous-poids,No,Yes,High
+745,Reynold,Kisting,10/1/1996,F,Obésité de classe II,Yes,Yes,Low
+746,Birgitta,Gierok,3/6/1974,Homme,Poids normal Surpoids,No,Yes,Low
+747,Colene,Veall,2/6/1975,Homme,Obésité de classe II,Yes,,High
+748,Tina,Mays,2/29/1992,Male,Poids normal Surpoids,Yes,Yes,Medium
+749,Karena,Suthren,11/15/2002,Homme,Poids normal Surpoids,Yes,Maybe,
+750,Bobbette,Cansdale,3/26/1988,Homme,Obesité exteme,Yes,Maybe,Low
+751,Louise,Blazic,6/11/1997,Femme,Obésité de classe III,Yes,Maybe,Medium
+752,Clemmy,Riping,5/21/1957,F,Obesité exteme,Yes,Yes,Low
+753,Suzette,Martensen,8/1/1958,H,Obésité de classe I,No,Yes,Low
+754,Jaye,Phillput,3/17/2017,Male,Obésité de classe II,Yes,No,High
+755,Marlo,Dannel,5/30/1980,Homme,Sous-poids,No,Yes,Low
+756,Sherwood,McCrum,8/27/1940,H,Poids normal Surpoids,Yes,Yes,High
+757,Delaney,Ludlom,11/22/1960,Male,Obésité de classe III,Yes,Yes,Medium
+758,Coralie,Shobrook,6/8/1962,Homme,Obésité de classe III,Yes,Maybe,Medium
+759,Gretel,Jorden,7/15/2019,F,Poids normal Surpoids,Yes,Maybe,High
+760,Tiff,Abbatucci,1/3/1949,Male,Obésité de classe III,No,Maybe,Low
+761,Pamelina,Hargitt,9/20/1961,Female,Obésité de classe II,Yes,Yes,High
+762,Talbot,Bazire,4/9/2015,Homme,Obésité de classe III,No,Maybe,Medium
+763,Blancha,MacDonough,4/26/1988,Femme,Obésité de classe I,No,Yes,High
+764,Silvain,Briton,10/25/1988,Male,Obesité exteme,Yes,,Low
+765,Nona,Daintrey,1/24/1969,Femme,Sous-poids,Yes,No,Medium
+766,Jemimah,Ghelarducci,10/11/2000,,Poids normal Surpoids,No,Yes,Low
+767,Cletis,Gasking,7/8/1996,Homme,Obésité de classe III,Yes,Maybe,Low
+768,Maighdiln,Farrants,5/28/1969,Female,Obesité exteme,No,No,High
+769,Vlad,Crickmer,7/3/1979,F,Obesité exteme,Yes,Yes,Medium
+770,Quincey,Kidstone,11/20/1941,H,Obésité de classe III,Yes,Maybe,Low
+,Averil,Bertomier,4/11/1969,H,Obesité exteme,Yes,Yes,Low
+772,Bessie,Hanfrey,10/16/1934,H,Obesité exteme,Yes,Yes,Low
+773,Caldwell,Scotney,4/20/1998,Female,Obesité exteme,Yes,Yes,Low
+774,Eadith,Bagshawe,11/14/1981,F,Obesité exteme,Yes,Maybe,High
+775,Carmencita,Clemendot,5/29/1976,Female,Obésité de classe II,Yes,Yes,Medium
+776,Tammy,Tubb,3/10/2023,F,Sous-poids,Yes,Yes,High
+777,Petronella,Mallon,7/24/1953,F,Obésité de classe III,No,No,Medium
+778,Hunt,Erskine,8/26/1983,Female,Sous-poids,No,No,Medium
+779,Dorry,Galliver,11/19/1985,Female,Obésité de classe I,Yes,,Low
+780,Roman,Tumini,6/3/2016,Homme,Obésité de classe III,No,Maybe,Medium
+781,Deck,Tuftin,3/10/1987,Female,Obésité de classe II,No,Maybe,Low
+782,Eldon,Milmith,10/9/1931,Male,Poids normal Surpoids,No,,Low
+783,Annette,Bonavia,7/25/1964,,Obésité de classe III,Yes,Yes,High
+784,Chrissy,Baish,7/1/2013,Female,Obésité de classe II,No,Maybe,Medium
+785,Ailee,Ambroisin,7/20/1939,H,Obesité exteme,No,No,Low
+786,Margit,Lindwasser,12/20/1999,F,Obésité de classe III,Yes,Maybe,Low
+787,Devy,Gildea,7/13/1971,Female,Obésité de classe I,Yes,Maybe,High
+788,Veradis,Meiklem,10/29/2019,H,Obésité de classe II,No,Maybe,Low
+789,Minnnie,Itskovitz,9/7/1968,Male,Obésité de classe III,Yes,Maybe,Low
+790,Ashly,Antonucci,2/20/1963,H,Obésité de classe I,Yes,Maybe,Medium
+791,,Smallpeace,8/3/2000,Male,Obésité de classe I,No,No,High
+792,Duky,Assender,4/2/1941,Male,Poids normal Surpoids,No,No,High
+793,Arlina,Sayre,3/10/1934,H,Obésité de classe I,No,No,Low
+794,Roda,McCurt,3/20/1934,Male,Obésité de classe III,No,No,Low
+795,Dre,Lisciandro,9/19/2000,Homme,Obésité de classe III,Yes,Maybe,Low
+796,Amalea,Bussen,4/1/1972,Female,Obesité exteme,No,No,Medium
+797,Brandais,Bidder,1/31/1998,F,Obésité de classe I,Yes,No,High
+798,Ted,Baldack,12/16/1971,F,Obésité de classe II,No,Yes,Medium
+799,Arlin,Markussen,3/26/2021,Male,Poids normal Surpoids,No,No,Medium
+800,Sonja,Gaythor,4/26/2021,Female,Obesité exteme,No,Yes,Medium
+801,Rhoda,Paulino,7/1/1999,Male,Poids normal Surpoids,Yes,No,Low
+,Camille,Swains,10/3/2016,F,Sous-poids,Yes,Maybe,Medium
+803,,Sibille,1/1/1950,H,Obésité de classe III,Yes,,Medium
+804,Raquel,Wilne,6/3/1989,Homme,Sous-poids,Yes,No,High
+,Avictor,Le Cornu,10/19/1976,F,Obesité exteme,Yes,No,Medium
+806,Alleen,Polgreen,4/30/1998,Femme,Sous-poids,No,Maybe,Low
+807,Nathalia,Legge,12/28/1989,Female,Poids normal Surpoids,No,Maybe,Medium
+808,Rupert,Dobey,5/19/1979,H,Obésité de classe II,No,No,Medium
+809,Gris,Timmis,1/31/1939,Homme,Obésité de classe III,No,Yes,Medium
+810,,Aldie,3/12/2007,Female,Obésité de classe II,No,Yes,High
+811,Violante,Heffernon,12/27/1981,Femme,Obesité exteme,No,Yes,High
+812,Dian,Vasile,5/20/1959,Femme,Obesité exteme,No,No,Medium
+813,Curry,Jelk,12/16/1993,Homme,Obésité de classe I,No,Maybe,High
+814,Vince,Albutt,4/13/1988,Female,Obesité exteme,No,No,Medium
+815,Zitella,Dorsey,9/23/1997,Male,Obésité de classe II,Yes,Maybe,Low
+816,Jonah,Szanto,3/15/1969,H,Poids normal Surpoids,Yes,Maybe,High
+817,,Rennick,9/16/1987,H,Obésité de classe II,No,Yes,Medium
+818,Alberta,Doniso,4/4/1935,Female,Obésité de classe I,No,Maybe,High
+819,Adlai,Schuricke,5/16/2022,Male,Obésité de classe III,Yes,Yes,Low
+820,Rees,Dungate,12/12/1995,Female,Sous-poids,Yes,Maybe,Medium
+821,Andris,Maunder,4/17/1955,Homme,Obesité exteme,Yes,Maybe,Medium
+822,Joaquin,Bichard,11/9/1972,Femme,Obésité de classe III,No,No,Medium
+823,Panchito,Brosenius,9/24/2008,Homme,Poids normal Surpoids,No,Yes,High
+824,Syman,Feathers,10/10/2012,Female,Obesité exteme,Yes,Maybe,Low
+825,Sayre,Knevett,3/20/1935,Male,Poids normal Surpoids,Yes,Maybe,High
+826,Farra,Wooderson,12/24/1994,F,Obesité exteme,No,Maybe,Medium
+827,Nikolos,Cowely,10/29/1983,H,Poids normal Surpoids,No,Maybe,Low
+828,Danyelle,Fleetwood,8/19/2001,Female,Obésité de classe I,Yes,Yes,Low
+829,Diena,Goldston,12/18/1934,Male,Obésité de classe I,Yes,No,Low
+830,Zachery,Hounsome,11/1/1991,H,Obésité de classe II,Yes,No,Low
+831,Nowell,Angeau,7/5/1930,Female,Obesité exteme,No,No,High
+832,Cortney,McCumesky,9/6/1951,Femme,Sous-poids,Yes,Yes,Low
+833,Cary,Lockier,10/3/1941,Femme,Poids normal Surpoids,No,Yes,Low
+834,Joellen,Scare,12/11/1935,Homme,Sous-poids,No,Yes,High
+835,Lizzy,Fardoe,8/19/2023,Homme,Obesité exteme,Yes,Maybe,Medium
+836,Gaby,Kmiec,5/16/1977,Female,Poids normal Surpoids,No,No,Low
+837,Myca,Catcherside,7/7/1933,Male,Obésité de classe I,No,No,Low
+838,Lock,Labbe,5/1/1958,Homme,Sous-poids,Yes,Yes,High
+839,Julio,Filintsev,10/23/1976,Male,Obesité exteme,No,Maybe,Low
+840,Amber,McGeneay,7/9/1975,Femme,Obesité exteme,No,No,Low
+841,Zolly,Shreve,7/10/2012,Femme,Poids normal Surpoids,Yes,Yes,High
+842,Merrie,Windybank,1/14/1983,,Sous-poids,Yes,No,Low
+843,Page,Edmand,1/11/2009,Homme,Obésité de classe II,No,Yes,Medium
+844,Mikael,Wharrier,6/7/1970,Femme,Obésité de classe III,Yes,,High
+845,Devi,Friedlos,8/6/2008,Homme,Obésité de classe III,Yes,Maybe,Medium
+846,Amalee,Enrietto,3/15/1941,Female,Obesité exteme,Yes,No,Medium
+847,Giff,Tillyer,6/8/1959,Homme,Obésité de classe II,No,Yes,Medium
+848,Laurens,Kneath,12/12/1975,Femme,Obesité exteme,No,,Medium
+849,Ingunna,Travers,7/11/2021,Female,Obésité de classe I,No,No,Medium
+850,Bernardo,MacKim,5/4/1948,Female,Obésité de classe II,Yes,Yes,Low
+851,Cary,Serjent,8/18/2006,Femme,Obésité de classe I,Yes,Maybe,Medium
+852,Georgena,Rispen,9/4/1986,Male,Obesité exteme,No,No,High
+853,Erma,Sangster,8/5/1936,Femme,Obesité exteme,Yes,,High
+854,Torrie,Got,1/11/1961,Female,Obésité de classe III,Yes,No,Low
+855,Ronica,Ghione,5/14/2007,H,Obesité exteme,Yes,Yes,Low
+856,Ferguson,Arkill,4/30/1958,Femme,Obésité de classe III,Yes,Yes,High
+857,Win,Ashlee,6/1/1965,Female,Obésité de classe I,Yes,Maybe,High
+858,Axe,Varlow,9/5/1984,Female,Obésité de classe III,No,Maybe,Low
+859,Joane,Ilett,4/24/2020,Male,Poids normal Surpoids,No,Maybe,Medium
+860,Sean,Milmo,5/15/1998,H,Obésité de classe III,No,Maybe,Medium
+861,Margarete,Rotter,7/29/1950,Homme,Obesité exteme,No,No,Low
+862,,Filipovic,3/20/2011,Female,Sous-poids,Yes,Maybe,Medium
+863,Trever,Vinnicombe,12/27/2003,Female,Obesité exteme,No,No,High
+864,Ashlie,Lockey,11/2/2013,Homme,Obesité exteme,Yes,Yes,High
+865,Craggy,Wyburn,7/8/1974,Homme,Obésité de classe III,No,Maybe,Medium
+866,Linea,Tingcomb,5/7/1954,Female,Obesité exteme,No,No,High
+867,Avrom,Sayers,2/22/2004,Female,Obesité exteme,No,No,Medium
+868,Daron,Divell,4/9/2000,F,Poids normal Surpoids,No,No,Low
+869,Cooper,Andrus,8/8/2022,H,Obésité de classe I,No,,Low
+870,Tobias,Bernardet,10/14/1931,H,Obésité de classe II,Yes,No,Low
+871,,Charlin,4/15/1969,F,Poids normal Surpoids,No,Maybe,Medium
+872,Munroe,Verbrugge,4/26/1990,H,Poids normal Surpoids,Yes,Yes,Medium
+873,Earvin,Czaja,7/17/1987,H,Obésité de classe I,Yes,Yes,Medium
+874,Ferdy,Sustins,11/18/1935,Homme,Obésité de classe I,Yes,Yes,High
+875,Constantia,Lampet,11/4/1981,H,Sous-poids,No,No,High
+876,Burnard,Wharram,11/29/2006,Male,Obesité exteme,No,Maybe,Low
+877,Marketa,Blaxill,4/8/1932,Female,Obésité de classe III,Yes,Yes,High
+878,Sigrid,Casford,6/24/1973,H,Obésité de classe II,No,Maybe,
+879,Hanna,Boutflour,11/1/1999,Homme,Sous-poids,Yes,No,Low
+880,Jorgan,Schruur,11/2/1966,Female,Obésité de classe II,No,No,Low
+881,Blancha,Moyne,1/6/2022,Male,Poids normal Surpoids,Yes,Maybe,Medium
+882,Martha,Palphramand,9/14/1941,H,Sous-poids,No,,Low
+883,Des,Schistl,4/28/2004,,Poids normal Surpoids,No,Yes,Low
+884,Binni,Frankton,10/24/2012,H,Obésité de classe III,No,Yes,Low
+885,Wally,Witard,6/2/2000,Homme,Obesité exteme,Yes,Maybe,Low
+886,Francene,Beaglehole,8/5/1943,Female,Sous-poids,Yes,No,High
+887,Kane,Wigg,10/3/1936,Female,Obésité de classe I,Yes,Maybe,Medium
+888,Jessy,Eagger,10/18/1930,Female,Poids normal Surpoids,No,No,
+889,Kippar,Stolberger,3/26/1988,Female,Poids normal Surpoids,No,No,Medium
+890,Graehme,MacRedmond,11/16/2009,Female,Sous-poids,Yes,No,Medium
+891,Carrie,Andre,4/29/1956,Female,Obésité de classe III,Yes,No,High
+892,Manda,O'Nion,12/1/1952,Male,Obésité de classe I,Yes,Maybe,High
+893,Robinetta,Titcom,7/31/2012,F,Obesité exteme,No,Maybe,Low
+894,Colet,Habden,7/13/1960,Homme,Poids normal Surpoids,Yes,No,High
+895,Dal,Hallifax,5/12/1961,Femme,Obésité de classe II,Yes,Maybe,High
+896,Nestor,Wingrove,1/14/1974,Femme,Obesité exteme,Yes,Maybe,High
+897,Wyatan,Riddoch,10/20/2015,F,Obésité de classe III,No,Yes,Low
+,Fredelia,Tuxsell,10/21/2018,Femme,Obésité de classe III,Yes,Yes,High
+899,Husain,Guiton,3/7/1938,Male,Obésité de classe II,Yes,Yes,Medium
+900,Thomasa,Dumbare,8/20/2000,F,Obésité de classe I,Yes,Yes,Low
+901,Sada,Pawlett,2/12/1981,Female,Obesité exteme,Yes,No,Medium
+902,Cesya,Blaker,9/6/2017,Homme,Obesité exteme,Yes,Maybe,High
+903,May,Yewdall,12/9/2000,Homme,Obésité de classe III,Yes,Yes,
+904,Thomas,Hacquard,4/4/1991,Femme,Obésité de classe II,No,Yes,High
+905,Odilia,Antoni,3/3/1971,Female,Sous-poids,No,Yes,High
+906,Ingamar,Kulas,4/5/2022,Female,Obésité de classe I,Yes,Maybe,High
+907,Ines,Ingham,6/5/1934,Male,Obesité exteme,Yes,Yes,High
+908,Pierrette,Eary,1/1/1934,F,Obésité de classe I,Yes,Maybe,High
+909,Demetris,Rookledge,11/15/2012,Femme,Poids normal Surpoids,Yes,Maybe,Low
+910,Myron,Adicot,2/16/2018,Femme,Sous-poids,No,Maybe,High
+911,Kilian,Cahillane,7/12/1985,H,Poids normal Surpoids,Yes,Maybe,Low
+912,Annora,Wyrill,5/24/1966,Male,Obesité exteme,No,No,High
+913,Man,Witnall,4/10/1964,Male,Obesité exteme,No,No,Medium
+914,Dael,De Filippo,10/7/1969,Homme,Obesité exteme,No,Maybe,High
+915,Lora,Mossop,6/1/1997,Female,Obesité exteme,No,Maybe,Low
+916,Janean,Cerith,12/21/1972,Female,Obésité de classe II,Yes,Maybe,
+917,Byrom,Raiman,1/20/2020,H,Obésité de classe I,No,Maybe,High
+918,Jemmie,Getley,1/4/1983,Homme,Obésité de classe I,Yes,Yes,Low
+919,Naomi,Girardoni,10/19/1958,Female,Obesité exteme,No,Maybe,Medium
+920,,Geratt,3/12/1940,Femme,Obésité de classe I,No,Yes,Low
+921,Crysta,Ferrario,6/9/1998,Male,Obesité exteme,No,No,
+922,Darbie,Andrea,9/11/1981,H,Obesité exteme,Yes,No,Low
+923,Val,Ruddiforth,2/20/1963,H,Sous-poids,No,Yes,Low
+924,Cameron,Bassilashvili,11/24/1958,Homme,Obésité de classe I,No,No,High
+925,Ivett,Earngy,7/17/1990,Femme,Sous-poids,Yes,No,Medium
+926,Ashla,Droogan,10/1/1990,Femme,Obésité de classe II,No,Yes,Low
+927,Kristy,Berriball,10/25/1995,F,Poids normal Surpoids,Yes,Maybe,Low
+928,Carolan,Pennycuick,12/26/1988,Femme,Sous-poids,No,No,High
+929,Lauritz,Painter,9/28/1994,Femme,Poids normal Surpoids,No,No,
+930,Hildegarde,Yeandel,5/30/1944,Homme,Poids normal Surpoids,No,No,High
+931,Glen,Izaks,6/30/1964,Homme,Poids normal Surpoids,No,,High
+932,Daffi,Brickdale,3/14/1953,F,Obésité de classe III,No,Maybe,High
+933,Frances,Skilling,11/23/2020,H,Obésité de classe I,Yes,Yes,High
+934,Shalne,Tuny,4/16/1996,Male,Obésité de classe II,Yes,Maybe,Low
+935,Mattias,Aykroyd,8/17/1938,Female,Obésité de classe II,Yes,Maybe,Low
+936,Constantine,Alstead,5/23/1996,Male,Poids normal Surpoids,Yes,Maybe,Medium
+937,Flor,Yezafovich,3/23/1939,F,Obesité exteme,Yes,Maybe,Low
+938,Vina,Rooke,7/6/1996,Homme,Obésité de classe II,No,No,High
+939,Wallace,Gero,10/14/2008,Homme,Obésité de classe II,No,Maybe,High
+940,Thaxter,Naldrett,4/27/1931,Female,Obésité de classe III,Yes,Yes,High
+941,Callean,Kinchington,11/22/2009,Female,Obesité exteme,No,Yes,Low
+942,Janelle,Forber,1/12/1995,H,Obesité exteme,Yes,Maybe,Low
+943,Cheslie,Anmore,9/26/1933,F,Obesité exteme,Yes,No,Low
+944,Virgilio,Aulds,10/25/1998,Femme,Obésité de classe I,No,Yes,Low
+945,Jephthah,Theuff,8/23/1934,Femme,Sous-poids,No,Maybe,Medium
+946,Kelvin,Ingold,2/27/1968,H,Obésité de classe III,Yes,Yes,Low
+947,Lezley,Stannah,4/5/2022,Male,Obésité de classe III,Yes,Yes,High
+948,Jena,Deboick,5/7/1952,F,Sous-poids,No,Maybe,High
+949,Selig,Cabera,8/16/2000,H,Sous-poids,Yes,Yes,Low
+950,Olive,Rubenfeld,3/14/2004,Female,Obésité de classe II,Yes,No,Medium
+951,Tessi,Sterley,11/21/1948,Female,Obésité de classe I,No,Yes,Low
+,Ulrike,Ewdale,8/9/2021,F,Obésité de classe III,No,Yes,Low
+953,Dorian,Harcase,10/10/1967,Femme,Obésité de classe II,Yes,Maybe,Medium
+954,Val,Lympenie,12/22/1978,F,Sous-poids,Yes,Yes,High
+955,Trevor,Lugg,2/4/2003,Female,Obesité exteme,Yes,Yes,High
+956,Candy,Boulden,3/20/1996,Homme,Obésité de classe III,No,No,Low
+957,Billy,McKinnell,3/20/1951,Male,Obésité de classe III,Yes,No,Low
+958,Sheri,Masseo,8/13/1965,F,Obésité de classe I,No,,High
+959,Lark,Whitebrook,10/23/1987,H,Poids normal Surpoids,No,Maybe,High
+960,Morgan,Ruprich,4/19/1957,Homme,Poids normal Surpoids,Yes,Maybe,Medium
+961,Roxie,Trenbay,2/21/1946,Female,Sous-poids,No,Maybe,High
+962,Ollie,Audsley,12/2/1997,H,Obesité exteme,Yes,Yes,Medium
+963,Kalli,Winnister,3/20/1952,H,Obesité exteme,Yes,No,Medium
+964,Millicent,Andreassen,10/25/1967,Female,Obésité de classe II,No,No,Medium
+,Charlene,Reinbech,7/6/1989,Female,Poids normal Surpoids,Yes,Maybe,Medium
+966,Cindee,Kalewe,6/7/1954,F,Sous-poids,No,No,High
+967,Craggy,Presman,9/15/1932,Femme,Poids normal Surpoids,No,Maybe,Low
+968,Isaac,Neylan,4/26/1938,Femme,Obesité exteme,Yes,Yes,Low
+969,Cynthea,Carnaman,7/25/1970,F,Sous-poids,Yes,Maybe,High
+970,Coralie,Steele,1/31/1989,H,Poids normal Surpoids,Yes,No,Low
+971,Gaby,Erik,11/29/1968,H,Obésité de classe III,Yes,Yes,Low
+972,Waly,Tabb,3/23/1937,,Obésité de classe I,No,Maybe,Medium
+973,Quentin,Toplin,7/20/1996,Female,Obésité de classe III,Yes,No,High
+974,Emmalynne,Catonne,7/13/2014,Female,Obesité exteme,Yes,Yes,High
+975,Cobb,Finneran,11/29/1974,Male,Obésité de classe II,Yes,Yes,Medium
+976,Josias,Vittet,11/7/1978,H,Poids normal Surpoids,No,Yes,
+977,Robbi,Boggon,7/11/1977,F,Obésité de classe II,No,No,Medium
+978,Hastings,Downing,12/9/1959,Homme,Obesité exteme,No,Yes,High
+979,Ambros,Phant,2/8/1979,Male,Sous-poids,Yes,Maybe,High
+980,Caren,Ambrosetti,5/5/2000,Femme,Obésité de classe II,Yes,Maybe,Low
+981,Beryle,Schnieder,7/30/1982,Homme,Sous-poids,Yes,Maybe,Medium
+982,Guinevere,Lamming,7/6/2021,Homme,Obésité de classe II,Yes,No,High
+983,Antoine,Suscens,4/2/1966,Female,Obésité de classe II,Yes,No,High
+984,Eugene,Winser,7/28/1977,Female,Obesité exteme,Yes,Yes,Medium
+985,Elnore,Habin,10/16/2016,Male,Sous-poids,No,No,Medium
+986,Gennie,Osgar,8/30/1958,Male,Obésité de classe III,No,Maybe,Low
+987,Rory,Bothen,8/27/1982,H,Obesité exteme,Yes,Maybe,Low
+988,Ernesta,Waliszek,8/23/1937,H,Obésité de classe I,Yes,No,High
+989,Nelson,Maydwell,4/11/1946,Femme,Obésité de classe III,No,No,Medium
+990,Bride,Guwer,3/11/2013,Homme,Sous-poids,Yes,Maybe,High
+991,Web,Hamber,9/30/1963,Female,Sous-poids,Yes,Yes,Medium
+992,Elene,Truswell,2/6/1961,H,Obésité de classe II,Yes,Maybe,Medium
+993,Bond,Pattesall,3/27/2006,F,Obésité de classe III,Yes,Maybe,Medium
+994,Viola,Fassam,2/5/1986,F,Obesité exteme,No,No,Medium
+995,Jayne,Stabler,4/9/1979,F,Sous-poids,No,Maybe,Low
+996,Luke,Mongeot,9/7/1937,H,Obésité de classe III,No,Yes,Medium
+997,Fran,Stoggell,8/5/1943,Femme,Sous-poids,No,No,High
+998,Jase,Paaso,6/8/1963,H,Poids normal Surpoids,Yes,Yes,High
+999,Charlot,Woolis,9/13/1940,Femme,Obésité de classe I,Yes,Maybe,High
+1000,Sherrie,Skett,10/30/1984,Femme,Obésité de classe III,Yes,No,Low

@@ -1,0 +1,801 @@
+BirthDate,gender,Obesity,Smoking,Genetic Risk,Cancer Prediction Level
+3/12/1972,Female,Poids normal Surpoids,0.9900495037128096,No,Low
+8/6/1954,Homme,Obésité de classe I,-1.0100505037878158,Yes,Low
+8/10/1968,H,Obésité de classe III,-1.0100505037878158,Yes,Low
+1/8/1948,Female,Sous-poids,0.9900495037128096,Maybe,Medium
+7/7/1933,Male,Obésité de classe I,-1.0100505037878158,No,Low
+3/28/1939,Male,Obesité exteme,0.9900495037128096,Maybe,Low
+4/26/1972,H,Poids normal Surpoids,0.9900495037128096,No,Medium
+10/19/1958,Female,Obesité exteme,-1.0100505037878158,Maybe,Medium
+8/6/1938,Female,Obésité de classe II,0.9900495037128096,Yes,Low
+3/20/1935,Male,Poids normal Surpoids,0.9900495037128096,Maybe,High
+5/16/1959,Male,Poids normal Surpoids,0.9900495037128096,Maybe,High
+4/3/1972,F,Obésité de classe I,0.9900495037128096,Maybe,Medium
+10/1/1990,Femme,Obésité de classe II,-1.0100505037878158,Yes,Low
+8/19/2001,Female,Obésité de classe I,0.9900495037128096,Yes,Low
+7/29/1949,Femme,Obésité de classe III,-1.0100505037878158,No,Medium
+4/4/1997,Femme,Poids normal Surpoids,0.9900495037128096,Yes,Medium
+10/13/2014,Femme,Obésité de classe I,0.9900495037128096,Yes,Low
+7/10/1993,Male,Obésité de classe III,0.9900495037128096,Maybe,High
+1/1/1934,F,Obésité de classe I,0.9900495037128096,Maybe,High
+11/9/2020,Homme,Poids normal Surpoids,-1.0100505037878158,Yes,High
+4/15/2006,Femme,Obesité exteme,0.9900495037128096,No,High
+6/16/2004,Homme,Obésité de classe II,0.9900495037128096,Yes,High
+11/7/1978,H,Poids normal Surpoids,-1.0100505037878158,Yes,
+12/2/2014,Femme,Obésité de classe II,-1.0100505037878158,Yes,Medium
+10/20/2015,F,Obésité de classe III,-1.0100505037878158,Yes,Low
+5/10/1950,Homme,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+1/7/1935,H,Sous-poids,-1.0100505037878158,Yes,Low
+2/2/1990,Femme,Obésité de classe III,-1.0100505037878158,,Low
+3/3/1971,Female,Sous-poids,-1.0100505037878158,Yes,High
+5/28/1970,Female,Obésité de classe II,0.9900495037128096,No,Low
+5/26/1967,Femme,Obésité de classe III,-1.0100505037878158,Maybe,High
+4/9/1979,F,Sous-poids,-1.0100505037878158,Maybe,Low
+6/13/1996,Femme,Sous-poids,-1.0100505037878158,Yes,Low
+3/29/1968,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+8/30/2017,Homme,Obésité de classe III,0.9900495037128096,No,High
+1/26/1966,Female,Sous-poids,0.9900495037128096,Maybe,Low
+5/10/1976,H,Poids normal Surpoids,0.9900495037128096,No,High
+10/25/1967,Female,Obésité de classe II,-1.0100505037878158,No,Medium
+1/19/2001,F,Obésité de classe II,-1.0100505037878158,No,High
+6/25/1956,Male,Obesité exteme,-1.0100505037878158,No,Low
+3/21/2007,Homme,Obésité de classe I,0.9900495037128096,No,Low
+10/24/2020,Femme,Obésité de classe III,-1.0100505037878158,Maybe,High
+9/22/1948,Femme,Obésité de classe II,-1.0100505037878158,Maybe,High
+4/26/2021,Female,Obesité exteme,-1.0100505037878158,Yes,Medium
+9/21/1953,H,Obésité de classe II,0.9900495037128096,Yes,Low
+2/10/2001,Homme,Obesité exteme,0.9900495037128096,Maybe,High
+3/4/1976,Female,Obésité de classe II,0.9900495037128096,No,Low
+9/24/1982,Homme,Obésité de classe III,0.9900495037128096,Yes,High
+12/23/1971,H,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+4/19/1942,,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+6/27/2018,Femme,Obesité exteme,0.9900495037128096,Yes,Medium
+2/6/1961,H,Obésité de classe II,0.9900495037128096,Maybe,Medium
+2/20/1963,H,Obésité de classe I,0.9900495037128096,Maybe,Medium
+5/12/1961,Femme,Obésité de classe II,0.9900495037128096,Maybe,High
+9/8/1968,H,Obésité de classe III,0.9900495037128096,No,Medium
+10/7/1981,H,Obésité de classe I,-1.0100505037878158,Maybe,High
+8/26/1980,,Obésité de classe II,-1.0100505037878158,Maybe,Low
+1/20/2020,H,Obésité de classe I,-1.0100505037878158,Maybe,High
+2/20/1963,H,Sous-poids,-1.0100505037878158,Yes,Low
+9/2/2018,F,Obésité de classe III,-1.0100505037878158,Yes,Low
+4/27/1947,Female,Obésité de classe III,-1.0100505037878158,Yes,Low
+1/1/1997,Femme,Obesité exteme,0.9900495037128096,No,Medium
+3/31/1945,Female,Poids normal Surpoids,0.9900495037128096,Yes,Low
+5/24/1997,H,Obésité de classe II,0.9900495037128096,Maybe,Medium
+8/30/1986,Homme,Obésité de classe I,0.9900495037128096,,Medium
+8/8/2022,H,Obésité de classe I,-1.0100505037878158,,Low
+3/26/2021,Male,Poids normal Surpoids,-1.0100505037878158,No,Medium
+12/14/1930,F,Obesité exteme,0.9900495037128096,No,Low
+1/9/2003,Female,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+10/26/1932,Male,Obésité de classe II,0.9900495037128096,No,
+1/14/1966,Femme,Obesité exteme,-1.0100505037878158,Yes,Low
+6/26/2006,Male,Sous-poids,0.9900495037128096,Yes,High
+2/12/1981,Female,Obesité exteme,0.9900495037128096,No,Medium
+8/25/1990,F,Sous-poids,-1.0100505037878158,,Low
+1/8/2024,Homme,Obesité exteme,0.9900495037128096,,High
+11/11/1945,Female,Obésité de classe II,0.9900495037128096,No,High
+2/25/1965,H,Obesité exteme,0.9900495037128096,Maybe,High
+5/16/1996,F,Obésité de classe I,0.9900495037128096,No,Medium
+10/18/1941,Male,Obesité exteme,-1.0100505037878158,Yes,Low
+7/1/2013,Female,Obésité de classe II,-1.0100505037878158,Maybe,Medium
+12/16/2001,Male,Obesité exteme,-1.0100505037878158,Maybe,Low
+12/16/1971,F,Obésité de classe II,-1.0100505037878158,Yes,Medium
+7/11/2005,H,Sous-poids,0.9900495037128096,No,High
+2/23/1939,Female,Obésité de classe II,-1.0100505037878158,Yes,Medium
+1/25/1930,Femme,Obésité de classe III,-1.0100505037878158,No,High
+8/16/2023,Homme,Obesité exteme,0.9900495037128096,Maybe,Medium
+6/12/1958,Homme,Poids normal Surpoids,0.9900495037128096,Yes,Medium
+12/26/2004,Male,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+6/14/1980,H,Obesité exteme,-1.0100505037878158,No,Low
+11/21/1948,Female,Obésité de classe I,-1.0100505037878158,Yes,Low
+4/5/2022,Male,Obésité de classe III,0.9900495037128096,Yes,High
+1/31/1998,F,Obésité de classe I,0.9900495037128096,No,High
+12/22/1962,H,Obésité de classe III,-1.0100505037878158,Yes,High
+9/14/1968,F,Obésité de classe I,0.9900495037128096,Maybe,High
+2/1/2006,H,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+2/7/2007,H,Obésité de classe III,0.9900495037128096,No,Medium
+5/23/1996,Male,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+6/23/1970,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+11/18/1997,H,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+6/13/2012,Homme,Poids normal Surpoids,0.9900495037128096,Yes,Low
+11/6/1983,Homme,Obésité de classe I,-1.0100505037878158,No,Medium
+10/16/1952,F,Obesité exteme,-1.0100505037878158,Maybe,Medium
+7/21/1953,Femme,Poids normal Surpoids,0.9900495037128096,Yes,Medium
+4/18/1963,H,Obésité de classe II,0.9900495037128096,Yes,Medium
+11/19/1985,Female,Obésité de classe I,0.9900495037128096,,Low
+3/14/2004,Female,Obésité de classe II,0.9900495037128096,No,Medium
+4/5/1991,H,Poids normal Surpoids,0.9900495037128096,No,High
+9/7/2022,H,Obésité de classe I,-1.0100505037878158,No,High
+8/17/1938,Female,Obésité de classe II,0.9900495037128096,Maybe,Low
+9/18/1977,Homme,Obesité exteme,-1.0100505037878158,Maybe,Medium
+1/30/1974,Homme,Poids normal Surpoids,0.9900495037128096,Yes,High
+2/3/1969,Female,Obésité de classe II,0.9900495037128096,Maybe,Low
+12/23/1991,Homme,Sous-poids,0.9900495037128096,Yes,Low
+1/14/1944,Female,Obésité de classe II,0.9900495037128096,Yes,Low
+5/1/1982,F,Obésité de classe II,-1.0100505037878158,Yes,Low
+6/7/2005,H,Obesité exteme,0.9900495037128096,Yes,Medium
+10/26/1934,F,Obésité de classe II,-1.0100505037878158,Maybe,Low
+1/30/1999,Homme,Obésité de classe II,-1.0100505037878158,Maybe,Low
+7/13/1958,Homme,Obesité exteme,-1.0100505037878158,Yes,Medium
+11/2/1943,Femme,Obésité de classe III,0.9900495037128096,Yes,High
+7/19/2019,Homme,Sous-poids,-1.0100505037878158,No,High
+2/12/1966,Male,Obésité de classe II,0.9900495037128096,Yes,Medium
+11/23/1954,Homme,Sous-poids,0.9900495037128096,Yes,High
+9/29/2016,Male,Obésité de classe II,-1.0100505037878158,Yes,Medium
+8/26/1983,Female,Sous-poids,-1.0100505037878158,No,Medium
+7/24/1950,Homme,Obesité exteme,-1.0100505037878158,No,Medium
+11/28/2022,Female,Sous-poids,-1.0100505037878158,No,High
+8/2/1947,H,Obésité de classe II,0.9900495037128096,No,High
+4/29/1945,Femme,Sous-poids,0.9900495037128096,Yes,Low
+6/8/2004,F,Sous-poids,-1.0100505037878158,Maybe,Low
+5/18/2004,Female,Sous-poids,-1.0100505037878158,Yes,Medium
+4/14/1953,Female,Poids normal Surpoids,0.9900495037128096,No,
+10/28/2020,Male,Obesité exteme,0.9900495037128096,Yes,Low
+11/13/2004,F,Obesité exteme,0.9900495037128096,No,High
+7/29/2011,Homme,Obésité de classe II,0.9900495037128096,,Medium
+5/7/2020,F,Obesité exteme,0.9900495037128096,No,Low
+3/27/1992,Female,Obésité de classe II,0.9900495037128096,Yes,Medium
+10/2/1932,Homme,Sous-poids,0.9900495037128096,Yes,Medium
+7/17/1987,H,Obésité de classe I,0.9900495037128096,Yes,Medium
+11/19/2020,Femme,Obésité de classe I,0.9900495037128096,No,
+7/11/2003,Female,Obésité de classe I,-1.0100505037878158,,High
+9/21/1987,Homme,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/16/1935,Homme,Obésité de classe III,-1.0100505037878158,No,Medium
+3/17/2023,Male,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+9/19/1953,Homme,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+6/10/2007,Female,Sous-poids,0.9900495037128096,No,High
+11/27/2017,Femme,Obesité exteme,0.9900495037128096,No,Low
+4/4/1991,Femme,Obésité de classe II,-1.0100505037878158,Yes,High
+3/28/1950,F,Obésité de classe III,0.9900495037128096,Yes,Medium
+4/27/1931,Female,Obésité de classe III,0.9900495037128096,Yes,High
+3/8/1981,Male,Obésité de classe II,0.9900495037128096,,High
+4/3/1931,Homme,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+1/14/1974,Femme,Obesité exteme,0.9900495037128096,Maybe,High
+8/2/2003,Homme,Obésité de classe II,-1.0100505037878158,Maybe,Low
+7/30/1939,F,Sous-poids,0.9900495037128096,Maybe,High
+7/12/1980,Femme,Obésité de classe I,-1.0100505037878158,No,Medium
+12/20/1936,Female,Sous-poids,0.9900495037128096,Maybe,High
+3/31/1980,Femme,Obésité de classe II,-1.0100505037878158,Yes,Medium
+4/29/1999,Male,Obesité exteme,0.9900495037128096,Maybe,Medium
+7/4/1993,Homme,Obésité de classe I,-1.0100505037878158,Maybe,Low
+10/26/1937,Male,Obésité de classe III,-1.0100505037878158,Maybe,High
+5/28/1982,H,Sous-poids,-1.0100505037878158,Yes,Low
+5/13/1972,Male,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+10/19/1993,Homme,Obésité de classe II,-1.0100505037878158,No,Medium
+5/8/2022,Male,Obésité de classe III,0.9900495037128096,Maybe,Low
+4/5/1998,Homme,Obesité exteme,-1.0100505037878158,Yes,Medium
+11/14/1981,F,Obesité exteme,0.9900495037128096,Maybe,High
+8/31/1956,Female,Obésité de classe I,-1.0100505037878158,No,High
+11/26/1954,Femme,Obésité de classe I,-1.0100505037878158,Maybe,High
+8/5/1936,Femme,Obesité exteme,0.9900495037128096,,High
+4/4/1981,Male,Obésité de classe I,0.9900495037128096,No,Low
+12/1/2005,Femme,Obésité de classe III,-1.0100505037878158,No,High
+12/7/1952,H,Obésité de classe I,-1.0100505037878158,No,Low
+7/30/1944,Homme,Obésité de classe III,-1.0100505037878158,Yes,Medium
+4/26/1969,H,Obésité de classe III,-1.0100505037878158,No,
+3/6/1974,Homme,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+7/8/2011,F,Obésité de classe II,0.9900495037128096,No,Low
+12/13/2009,Female,Sous-poids,0.9900495037128096,Maybe,High
+7/12/1985,H,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+4/13/1988,Female,Obesité exteme,-1.0100505037878158,No,Medium
+4/26/2018,Male,Obesité exteme,-1.0100505037878158,Yes,High
+8/13/2022,Female,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+3/10/1934,H,Obésité de classe I,-1.0100505037878158,No,Low
+4/23/1939,H,Sous-poids,-1.0100505037878158,No,Medium
+9/27/2006,Homme,Obésité de classe II,0.9900495037128096,Yes,Medium
+11/24/1958,Homme,Obésité de classe I,-1.0100505037878158,No,High
+4/10/1952,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/22/1937,Female,Obésité de classe II,-1.0100505037878158,No,Low
+9/30/1963,Female,Sous-poids,0.9900495037128096,Yes,Medium
+5/29/1976,Female,Obésité de classe II,0.9900495037128096,Yes,Medium
+8/19/1975,Femme,Sous-poids,-1.0100505037878158,Maybe,Low
+6/28/1970,,Sous-poids,0.9900495037128096,No,High
+10/21/1973,Femme,Sous-poids,-1.0100505037878158,No,Low
+8/29/1960,Femme,Obésité de classe III,-1.0100505037878158,No,Medium
+2/4/1956,F,Obésité de classe II,-1.0100505037878158,No,Low
+2/23/2004,Homme,Obésité de classe I,0.9900495037128096,Yes,High
+8/7/1951,Male,Poids normal Surpoids,0.9900495037128096,No,High
+8/9/1967,F,Poids normal Surpoids,0.9900495037128096,Yes,High
+6/8/1962,Homme,Obésité de classe III,0.9900495037128096,Maybe,Medium
+6/8/1963,H,Poids normal Surpoids,0.9900495037128096,Yes,High
+4/29/1950,H,Obésité de classe III,0.9900495037128096,,High
+8/21/1993,Femme,Poids normal Surpoids,0.9900495037128096,No,
+10/27/2003,Homme,Poids normal Surpoids,-1.0100505037878158,Yes,High
+8/6/1942,Femme,Obésité de classe II,-1.0100505037878158,,High
+4/27/1995,H,Obésité de classe II,-1.0100505037878158,Yes,Medium
+9/2/1933,H,Obésité de classe III,0.9900495037128096,No,Medium
+10/25/1995,F,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+5/29/2007,F,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+5/19/1982,Femme,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+3/20/1982,F,Obesité exteme,-1.0100505037878158,No,Medium
+10/29/1993,Male,Sous-poids,-1.0100505037878158,Maybe,
+6/9/1998,Male,Obesité exteme,-1.0100505037878158,No,
+10/9/1931,Male,Poids normal Surpoids,-1.0100505037878158,,Low
+6/30/1968,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+4/4/1935,Female,Obésité de classe I,-1.0100505037878158,Maybe,High
+5/17/1977,Homme,Obésité de classe I,0.9900495037128096,Maybe,Low
+12/23/1950,Femme,Obésité de classe II,0.9900495037128096,Yes,High
+10/3/1941,Femme,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+7/25/1951,Female,Obésité de classe I,-1.0100505037878158,Maybe,High
+5/1/1938,F,Obésité de classe I,-1.0100505037878158,Yes,Medium
+10/20/2021,Femme,Obésité de classe I,-1.0100505037878158,Yes,Medium
+12/17/2015,Femme,Obésité de classe II,-1.0100505037878158,No,Low
+7/15/1998,F,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+3/23/2013,F,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+8/7/2009,Homme,Poids normal Surpoids,-1.0100505037878158,No,High
+11/24/1933,H,Obésité de classe I,-1.0100505037878158,Maybe,Low
+11/11/2001,Femme,Poids normal Surpoids,-1.0100505037878158,Maybe,
+8/26/1946,Homme,Obésité de classe II,-1.0100505037878158,No,High
+7/22/1953,H,Obesité exteme,0.9900495037128096,Maybe,High
+6/15/1947,Femme,Obesité exteme,-1.0100505037878158,Yes,Medium
+8/18/1945,Female,Obésité de classe III,0.9900495037128096,No,High
+5/2/1931,Femme,Obésité de classe I,0.9900495037128096,Yes,High
+1/7/2006,Female,Obésité de classe I,0.9900495037128096,Yes,Low
+4/9/1970,Male,Poids normal Surpoids,0.9900495037128096,No,High
+3/16/1992,Homme,Obesité exteme,0.9900495037128096,Yes,
+5/13/1953,Female,Obesité exteme,0.9900495037128096,Yes,High
+11/1/2018,Male,Obésité de classe III,0.9900495037128096,Maybe,High
+11/17/1935,Femme,Obésité de classe II,-1.0100505037878158,,
+9/14/1941,H,Sous-poids,-1.0100505037878158,,Low
+10/13/1998,Female,Obésité de classe II,-1.0100505037878158,No,Medium
+5/4/1935,F,Obésité de classe I,0.9900495037128096,Maybe,Medium
+8/17/1978,Homme,Sous-poids,0.9900495037128096,Yes,High
+11/29/1968,H,Obésité de classe III,0.9900495037128096,Yes,Low
+11/27/2008,Femme,Obésité de classe I,-1.0100505037878158,Maybe,High
+9/25/1959,Male,Obésité de classe III,-1.0100505037878158,No,Medium
+1/25/2008,Femme,Obésité de classe I,-1.0100505037878158,Yes,Medium
+8/1/1979,Femme,Obésité de classe I,-1.0100505037878158,Maybe,Low
+9/24/2023,Female,Sous-poids,0.9900495037128096,Yes,Medium
+3/6/1999,Female,Obesité exteme,-1.0100505037878158,No,Medium
+10/18/1974,Female,Poids normal Surpoids,-1.0100505037878158,Yes,High
+11/15/2020,F,Obésité de classe I,0.9900495037128096,Maybe,Low
+11/18/1935,Homme,Obésité de classe I,0.9900495037128096,Yes,High
+8/2/2016,Female,Obesité exteme,0.9900495037128096,Maybe,High
+1/28/2013,F,Obésité de classe II,-1.0100505037878158,Maybe,Low
+3/24/1943,Femme,Sous-poids,0.9900495037128096,Yes,Low
+8/29/2010,H,Obésité de classe I,-1.0100505037878158,Yes,Low
+8/5/1943,Female,Sous-poids,0.9900495037128096,No,High
+3/14/1946,Femme,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+12/8/1993,Male,Obésité de classe II,-1.0100505037878158,Yes,Low
+6/21/1974,F,Obesité exteme,-1.0100505037878158,Yes,High
+6/5/1976,Female,Poids normal Surpoids,0.9900495037128096,No,High
+10/3/2002,Homme,Sous-poids,0.9900495037128096,Yes,Medium
+3/4/1940,Male,Obésité de classe I,0.9900495037128096,Yes,Medium
+12/2/1997,H,Obesité exteme,0.9900495037128096,Yes,Medium
+3/13/1990,Female,Sous-poids,-1.0100505037878158,Yes,
+3/7/1939,Femme,Obesité exteme,0.9900495037128096,No,High
+11/10/1941,Male,Obésité de classe II,0.9900495037128096,Maybe,Medium
+8/29/2010,Female,Sous-poids,-1.0100505037878158,Maybe,Low
+3/31/1941,Homme,Obésité de classe II,-1.0100505037878158,Yes,Low
+7/22/2010,Female,Obésité de classe III,0.9900495037128096,Maybe,
+1/12/1936,F,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+5/24/2013,F,Poids normal Surpoids,0.9900495037128096,No,
+6/30/1964,Homme,Poids normal Surpoids,-1.0100505037878158,,High
+3/17/1994,Homme,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+8/15/2016,Female,Obésité de classe II,0.9900495037128096,Yes,High
+4/11/1946,Femme,Obésité de classe III,-1.0100505037878158,No,Medium
+9/11/1981,H,Obesité exteme,0.9900495037128096,No,Low
+4/16/1996,Male,Obésité de classe II,0.9900495037128096,Maybe,Low
+11/16/1957,F,Obesité exteme,-1.0100505037878158,Maybe,Low
+4/5/1933,H,Obésité de classe III,-1.0100505037878158,Yes,Low
+12/17/1987,H,Obésité de classe I,-1.0100505037878158,No,Low
+7/10/2007,Homme,Obésité de classe III,-1.0100505037878158,Yes,Medium
+4/17/1946,Femme,Poids normal Surpoids,0.9900495037128096,Yes,High
+9/25/1995,Femme,Obésité de classe II,0.9900495037128096,Yes,Medium
+8/21/2005,Femme,Obésité de classe II,0.9900495037128096,Maybe,High
+5/5/2000,F,Obesité exteme,-1.0100505037878158,,Low
+7/11/2018,Femme,Obésité de classe II,0.9900495037128096,,High
+1/9/1936,Homme,Poids normal Surpoids,0.9900495037128096,No,High
+9/24/1977,Male,Obesité exteme,0.9900495037128096,,
+3/21/1930,Femme,Obesité exteme,-1.0100505037878158,Maybe,Low
+4/8/1932,Female,Obésité de classe III,0.9900495037128096,Yes,High
+1/28/1940,Male,Obésité de classe III,-1.0100505037878158,No,Low
+11/22/1960,Male,Obésité de classe III,0.9900495037128096,Yes,Medium
+9/27/2005,Homme,Obésité de classe II,-1.0100505037878158,No,Medium
+5/30/1941,Female,Poids normal Surpoids,-1.0100505037878158,No,Low
+4/22/1937,Femme,Sous-poids,-1.0100505037878158,No,High
+4/20/1993,H,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+8/26/1948,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+4/15/1969,F,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+4/28/2004,,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+6/7/1998,Male,Obésité de classe III,0.9900495037128096,No,High
+11/6/1935,Femme,Obésité de classe I,0.9900495037128096,No,High
+9/17/2000,H,Obesité exteme,0.9900495037128096,No,Low
+5/24/1966,Male,Obesité exteme,-1.0100505037878158,No,High
+3/20/1934,Male,Obésité de classe III,-1.0100505037878158,No,Low
+2/21/1946,Female,Sous-poids,-1.0100505037878158,Maybe,High
+12/9/1988,Female,Poids normal Surpoids,0.9900495037128096,No,
+8/5/1954,Femme,Poids normal Surpoids,-1.0100505037878158,No,Medium
+3/20/1951,Male,Obésité de classe III,0.9900495037128096,No,Low
+5/21/1957,F,Obesité exteme,0.9900495037128096,Yes,Low
+1/11/2020,Male,Obésité de classe I,-1.0100505037878158,Yes,Medium
+9/27/2016,F,Obésité de classe II,-1.0100505037878158,Maybe,Medium
+2/12/1936,Female,Poids normal Surpoids,0.9900495037128096,Maybe,High
+12/13/1995,Femme,Sous-poids,0.9900495037128096,Maybe,High
+7/3/1993,H,Obésité de classe II,-1.0100505037878158,Yes,Low
+7/15/2019,F,Poids normal Surpoids,0.9900495037128096,Maybe,High
+10/26/1959,Male,Obésité de classe III,0.9900495037128096,No,Low
+11/21/2020,Female,Obésité de classe I,-1.0100505037878158,Yes,High
+7/28/1977,Female,Obesité exteme,0.9900495037128096,Yes,Medium
+8/28/1940,F,Sous-poids,-1.0100505037878158,Maybe,Low
+9/5/1931,Male,Obesité exteme,-1.0100505037878158,No,High
+10/13/1934,Male,Obésité de classe III,-1.0100505037878158,Yes,Low
+3/20/2011,Female,Sous-poids,0.9900495037128096,Maybe,Medium
+6/17/1996,Female,Sous-poids,-1.0100505037878158,Maybe,
+12/11/2009,Homme,Obesité exteme,-1.0100505037878158,No,Medium
+9/27/1971,Male,Obésité de classe III,-1.0100505037878158,Maybe,Low
+12/11/1935,Homme,Sous-poids,-1.0100505037878158,Yes,High
+10/10/1965,Femme,Obésité de classe I,-1.0100505037878158,Yes,Medium
+8/2/1991,Homme,Poids normal Surpoids,0.9900495037128096,Yes,High
+4/20/1957,F,Obésité de classe II,0.9900495037128096,No,High
+5/7/2013,Female,Obésité de classe II,0.9900495037128096,No,High
+4/11/2020,F,Obésité de classe II,-1.0100505037878158,Yes,Medium
+12/20/1941,H,Sous-poids,-1.0100505037878158,Maybe,Low
+3/15/1943,H,Sous-poids,0.9900495037128096,No,High
+8/6/2008,Homme,Obésité de classe III,0.9900495037128096,Maybe,Medium
+9/11/1938,H,Obésité de classe II,0.9900495037128096,No,Low
+10/1/1978,Homme,Obésité de classe I,0.9900495037128096,Maybe,Medium
+5/24/1944,Homme,Obésité de classe III,0.9900495037128096,Yes,High
+8/20/1995,Femme,Sous-poids,0.9900495037128096,Maybe,Low
+11/15/1998,Female,Sous-poids,0.9900495037128096,Maybe,Low
+11/26/2017,Femme,Poids normal Surpoids,0.9900495037128096,Maybe,High
+8/23/1981,Male,Obésité de classe III,0.9900495037128096,No,Low
+2/1/1944,H,Obésité de classe I,-1.0100505037878158,Maybe,Low
+7/10/1971,F,Obesité exteme,-1.0100505037878158,Yes,Low
+5/9/1977,F,Sous-poids,0.9900495037128096,No,Medium
+10/25/1998,Femme,Obésité de classe I,-1.0100505037878158,Yes,Low
+7/9/1967,H,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+12/24/1994,F,Obesité exteme,-1.0100505037878158,Maybe,Medium
+7/1/1936,Femme,Obesité exteme,-1.0100505037878158,Maybe,Medium
+1/8/1955,Male,Sous-poids,0.9900495037128096,Yes,High
+4/30/1973,Female,Obésité de classe III,0.9900495037128096,Maybe,Low
+7/19/1937,Male,Obésité de classe III,-1.0100505037878158,No,Low
+11/6/1978,Female,Obesité exteme,0.9900495037128096,Yes,
+7/24/1976,F,Obesité exteme,0.9900495037128096,No,Medium
+11/2/2013,Homme,Obesité exteme,0.9900495037128096,Yes,High
+4/10/1964,Male,Obesité exteme,-1.0100505037878158,No,Medium
+12/15/2001,Homme,Obésité de classe I,-1.0100505037878158,Maybe,Low
+5/31/1969,Homme,Sous-poids,0.9900495037128096,Yes,Medium
+9/9/1980,F,Obesité exteme,-1.0100505037878158,Maybe,Medium
+12/15/2022,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+9/11/1997,H,Obésité de classe II,-1.0100505037878158,Yes,Medium
+10/30/1984,Femme,Obésité de classe III,0.9900495037128096,No,Low
+8/19/2023,Homme,Obesité exteme,0.9900495037128096,Maybe,Medium
+9/22/2008,Femme,Obésité de classe II,-1.0100505037878158,Maybe,Medium
+5/18/1940,F,Obésité de classe III,0.9900495037128096,Yes,Medium
+8/15/2010,Male,Obesité exteme,-1.0100505037878158,Maybe,Low
+12/19/2005,Homme,Sous-poids,0.9900495037128096,No,High
+6/30/1968,Femme,Sous-poids,-1.0100505037878158,No,High
+11/25/1958,Homme,Sous-poids,-1.0100505037878158,Maybe,High
+9/15/1932,Femme,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+4/9/2009,Female,Obésité de classe III,-1.0100505037878158,,High
+6/24/2006,Female,Obesité exteme,0.9900495037128096,Maybe,Low
+7/13/1971,Female,Obésité de classe I,0.9900495037128096,Maybe,High
+8/30/1991,Homme,Poids normal Surpoids,0.9900495037128096,No,Medium
+6/26/1982,Female,Obésité de classe III,-1.0100505037878158,Yes,High
+12/26/1988,Femme,Sous-poids,-1.0100505037878158,No,High
+5/2/1965,Female,Obésité de classe III,0.9900495037128096,Maybe,Low
+9/4/1973,F,Obésité de classe I,-1.0100505037878158,Yes,Medium
+7/26/1940,Femme,Obésité de classe III,-1.0100505037878158,No,Low
+3/26/1950,Female,Obesité exteme,0.9900495037128096,Yes,High
+10/12/1933,F,Obesité exteme,0.9900495037128096,Yes,Medium
+8/12/1982,Femme,Poids normal Surpoids,0.9900495037128096,No,Medium
+3/12/2007,Female,Obésité de classe II,-1.0100505037878158,Yes,High
+8/3/2000,Male,Obésité de classe I,-1.0100505037878158,No,High
+1/31/1939,Homme,Obésité de classe III,-1.0100505037878158,Yes,Medium
+10/25/1960,H,Obésité de classe II,-1.0100505037878158,Yes,High
+6/14/1965,H,Obésité de classe II,0.9900495037128096,No,High
+2/9/1937,Male,Sous-poids,0.9900495037128096,Maybe,High
+2/2/1945,Male,Obesité exteme,0.9900495037128096,No,Low
+5/14/1933,F,Obésité de classe III,0.9900495037128096,No,Medium
+5/6/1946,H,Sous-poids,0.9900495037128096,Yes,Low
+12/18/1934,Male,Obésité de classe I,0.9900495037128096,No,Low
+1/14/1947,H,Obesité exteme,0.9900495037128096,Maybe,Medium
+5/30/1980,Homme,Sous-poids,-1.0100505037878158,Yes,Low
+4/24/2020,Male,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+3/2/1990,H,Sous-poids,-1.0100505037878158,No,Low
+12/5/1961,Male,Obésité de classe III,-1.0100505037878158,No,Low
+4/19/2016,F,Obésité de classe II,0.9900495037128096,No,High
+6/21/2014,F,Obésité de classe I,0.9900495037128096,Maybe,Low
+12/23/1946,Femme,Sous-poids,-1.0100505037878158,Yes,High
+4/28/1985,H,Obesité exteme,-1.0100505037878158,No,Medium
+2/26/1986,F,Obésité de classe III,0.9900495037128096,Yes,Medium
+6/5/2005,Homme,Obésité de classe III,-1.0100505037878158,No,Medium
+9/6/2017,F,Poids normal Surpoids,0.9900495037128096,No,High
+2/7/2009,F,Sous-poids,0.9900495037128096,,High
+7/6/1989,Female,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+3/18/1966,Homme,Sous-poids,0.9900495037128096,Maybe,High
+11/23/1970,Femme,Obésité de classe I,-1.0100505037878158,Yes,Low
+2/6/1943,F,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+3/13/1953,Femme,Obésité de classe II,0.9900495037128096,No,High
+10/18/1981,Femme,Obésité de classe I,0.9900495037128096,Yes,High
+2/7/1990,Femme,Obésité de classe III,0.9900495037128096,Maybe,High
+1/3/1949,Male,Obésité de classe III,-1.0100505037878158,Maybe,Low
+4/21/1964,Homme,Obesité exteme,0.9900495037128096,No,
+12/11/1938,Female,Obésité de classe I,-1.0100505037878158,Maybe,High
+5/24/1956,H,Obesité exteme,-1.0100505037878158,Maybe,Medium
+5/5/2000,Femme,Obésité de classe II,0.9900495037128096,Maybe,Low
+8/13/2019,Male,Obésité de classe II,-1.0100505037878158,Yes,High
+10/16/2016,Male,Sous-poids,-1.0100505037878158,No,Medium
+12/6/1997,Female,Sous-poids,0.9900495037128096,No,Low
+2/16/2018,Femme,Sous-poids,-1.0100505037878158,Maybe,High
+6/27/1969,F,Obésité de classe II,0.9900495037128096,Maybe,
+9/4/1986,Male,Obesité exteme,-1.0100505037878158,No,High
+8/25/1973,H,Poids normal Surpoids,0.9900495037128096,Maybe,High
+4/22/1954,Homme,Sous-poids,-1.0100505037878158,No,High
+4/9/1979,Female,Obésité de classe II,0.9900495037128096,Yes,Low
+1/31/1978,Female,Obésité de classe I,0.9900495037128096,Yes,Medium
+3/23/1937,,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+11/22/2009,Female,Obesité exteme,-1.0100505037878158,Yes,Low
+12/17/1978,Male,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+10/10/1967,Femme,Obésité de classe II,0.9900495037128096,Maybe,Medium
+12/10/1959,H,Sous-poids,0.9900495037128096,Yes,Low
+10/26/1933,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/19/1976,F,Obesité exteme,0.9900495037128096,Yes,Medium
+6/24/1973,H,Obésité de classe II,-1.0100505037878158,Maybe,
+3/5/1931,Femme,Obesité exteme,0.9900495037128096,Yes,Medium
+3/2/1969,H,Obésité de classe III,-1.0100505037878158,Maybe,High
+2/4/2003,Female,Obesité exteme,0.9900495037128096,Yes,High
+7/16/1940,Male,Obésité de classe I,-1.0100505037878158,No,High
+8/9/2021,F,Obésité de classe III,-1.0100505037878158,Yes,Low
+1/29/2013,F,Sous-poids,-1.0100505037878158,No,Medium
+7/26/1950,Femme,Obésité de classe III,-1.0100505037878158,No,High
+12/28/2002,H,Obésité de classe III,0.9900495037128096,Yes,Low
+6/7/1954,F,Sous-poids,-1.0100505037878158,No,High
+6/16/1956,F,Obesité exteme,0.9900495037128096,Maybe,High
+3/12/2002,Femme,Obésité de classe I,-1.0100505037878158,No,Low
+4/26/1938,Femme,Obesité exteme,0.9900495037128096,Yes,Low
+8/18/2006,Femme,Obésité de classe I,0.9900495037128096,Maybe,Medium
+1/26/2004,Male,Obésité de classe I,0.9900495037128096,Yes,Medium
+1/14/1983,,Sous-poids,0.9900495037128096,No,Low
+5/30/1976,F,Sous-poids,0.9900495037128096,No,Low
+5/14/2007,H,Obesité exteme,0.9900495037128096,Yes,Low
+7/8/1974,Homme,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+3/12/2011,Male,Poids normal Surpoids,0.9900495037128096,Yes,High
+1/31/1989,H,Poids normal Surpoids,0.9900495037128096,No,Low
+7/5/1930,Female,Obesité exteme,-1.0100505037878158,No,High
+10/3/1940,F,Obésité de classe III,0.9900495037128096,Maybe,Medium
+7/25/1970,F,Sous-poids,0.9900495037128096,Maybe,High
+8/21/2007,Female,Obesité exteme,0.9900495037128096,Yes,Low
+11/15/2012,Femme,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+9/21/1949,Femme,Obesité exteme,0.9900495037128096,No,Medium
+10/3/2016,F,Sous-poids,0.9900495037128096,Maybe,Medium
+2/5/1986,F,Obesité exteme,-1.0100505037878158,No,Medium
+8/27/1940,H,Poids normal Surpoids,0.9900495037128096,Yes,High
+4/16/1946,H,Obesité exteme,0.9900495037128096,Maybe,Low
+7/15/1965,F,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+1/4/1960,Femme,Obesité exteme,0.9900495037128096,Yes,High
+8/28/1978,Femme,Poids normal Surpoids,-1.0100505037878158,,High
+3/19/1949,F,Obesité exteme,-1.0100505037878158,No,Low
+11/12/2017,Male,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+6/11/1997,Femme,Obésité de classe III,0.9900495037128096,Maybe,Medium
+9/30/1982,Homme,Obésité de classe III,0.9900495037128096,Maybe,High
+3/10/1987,Female,Obésité de classe II,-1.0100505037878158,Maybe,Low
+3/3/2018,Homme,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+9/1/1933,Male,Obésité de classe II,-1.0100505037878158,No,Low
+2/23/2004,F,Obésité de classe I,0.9900495037128096,,High
+12/12/1966,Male,Poids normal Surpoids,0.9900495037128096,No,Medium
+10/21/1996,Male,Obesité exteme,0.9900495037128096,Maybe,Low
+2/27/1968,H,Obésité de classe III,0.9900495037128096,Yes,Low
+11/8/1953,H,Poids normal Surpoids,-1.0100505037878158,Yes,High
+12/24/2009,H,Poids normal Surpoids,-1.0100505037878158,No,Low
+6/7/1970,Femme,Obésité de classe III,0.9900495037128096,,High
+4/26/1988,Femme,Obésité de classe I,-1.0100505037878158,Yes,High
+6/7/2004,Male,Sous-poids,-1.0100505037878158,No,Medium
+5/19/1979,H,Obésité de classe II,-1.0100505037878158,No,Medium
+9/4/1946,Male,Obesité exteme,0.9900495037128096,,Medium
+8/14/1939,Homme,Poids normal Surpoids,0.9900495037128096,Maybe,High
+4/16/1937,Female,Poids normal Surpoids,0.9900495037128096,No,Medium
+12/17/2013,H,Poids normal Surpoids,0.9900495037128096,Maybe,High
+1/11/1950,H,Obésité de classe III,-1.0100505037878158,No,Low
+2/6/1975,Homme,Obésité de classe II,0.9900495037128096,,High
+3/12/2005,H,Obésité de classe III,-1.0100505037878158,Yes,High
+4/16/1989,H,Poids normal Surpoids,-1.0100505037878158,No,Medium
+8/7/1935,Femme,Obésité de classe II,-1.0100505037878158,Maybe,Medium
+12/1/1952,Male,Obésité de classe I,0.9900495037128096,Maybe,High
+9/19/1954,F,Obésité de classe III,0.9900495037128096,Yes,Medium
+11/25/1992,Femme,Obésité de classe III,-1.0100505037878158,No,Low
+12/16/1955,Femme,Poids normal Surpoids,-1.0100505037878158,No,Medium
+6/5/2004,Homme,Obesité exteme,-1.0100505037878158,Yes,Medium
+8/18/1981,Male,Obesité exteme,0.9900495037128096,Yes,High
+9/7/1968,Male,Obésité de classe III,0.9900495037128096,Maybe,Low
+10/9/1931,H,Poids normal Surpoids,0.9900495037128096,Yes,High
+11/16/2009,Female,Sous-poids,0.9900495037128096,No,Medium
+9/30/1953,Femme,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+10/3/1936,Female,Obésité de classe I,0.9900495037128096,Maybe,Medium
+2/22/1988,,Obésité de classe III,0.9900495037128096,No,Low
+11/30/1963,Homme,Sous-poids,-1.0100505037878158,Yes,Medium
+9/4/1975,Femme,Obésité de classe II,-1.0100505037878158,Yes,
+1/3/1942,H,Obésité de classe I,-1.0100505037878158,Maybe,Low
+3/14/1953,F,Obésité de classe III,-1.0100505037878158,Maybe,High
+9/13/1984,F,Poids normal Surpoids,-1.0100505037878158,No,High
+8/9/2017,Homme,Sous-poids,0.9900495037128096,No,Low
+4/24/1963,Homme,Obésité de classe I,-1.0100505037878158,Maybe,Low
+1/18/1993,Female,Obésité de classe I,0.9900495037128096,No,Medium
+6/7/1988,H,Obésité de classe II,0.9900495037128096,Maybe,Medium
+10/17/1997,F,Sous-poids,-1.0100505037878158,Yes,Medium
+7/18/1978,F,Obesité exteme,0.9900495037128096,Yes,High
+1/11/1961,Female,Obésité de classe III,0.9900495037128096,No,Low
+7/4/1964,Homme,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+12/10/1997,F,Sous-poids,0.9900495037128096,Maybe,Medium
+10/23/1987,H,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+2/13/2000,H,Poids normal Surpoids,0.9900495037128096,No,Medium
+5/2/1985,H,Obésité de classe II,-1.0100505037878158,Maybe,Low
+4/7/2002,Femme,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+12/4/1965,Femme,Obésité de classe I,-1.0100505037878158,No,Medium
+2/10/1965,F,Obésité de classe III,0.9900495037128096,,Low
+6/11/2006,F,Obesité exteme,0.9900495037128096,Yes,High
+11/30/1958,Femme,Sous-poids,0.9900495037128096,Maybe,High
+1/19/1954,H,Sous-poids,0.9900495037128096,Maybe,Low
+3/17/1949,F,Obesité exteme,-1.0100505037878158,No,Low
+10/18/2006,Homme,Sous-poids,-1.0100505037878158,No,Low
+11/23/1971,Male,Sous-poids,0.9900495037128096,Yes,Medium
+11/23/2020,H,Obésité de classe I,0.9900495037128096,Yes,High
+10/11/2000,,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+6/5/1934,Male,Obesité exteme,0.9900495037128096,Yes,High
+5/16/1977,Female,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/18/1930,Female,Poids normal Surpoids,-1.0100505037878158,No,
+11/27/2010,Female,Obesité exteme,-1.0100505037878158,Maybe,High
+11/21/2019,Female,Obésité de classe III,-1.0100505037878158,Yes,Medium
+7/22/2003,Homme,Sous-poids,-1.0100505037878158,Yes,Low
+7/20/1939,H,Obesité exteme,-1.0100505037878158,No,Low
+4/11/1969,H,Obesité exteme,0.9900495037128096,Yes,Low
+2/20/2020,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/7/1969,Homme,Obesité exteme,-1.0100505037878158,Maybe,High
+8/24/1936,Homme,Obésité de classe III,0.9900495037128096,No,Low
+7/8/1963,Female,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+12/21/1972,Female,Obésité de classe II,0.9900495037128096,Maybe,
+8/1/1958,H,Obésité de classe I,-1.0100505037878158,Yes,Low
+12/28/1989,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+3/12/1940,Femme,Obésité de classe I,-1.0100505037878158,Yes,Low
+1/30/1937,Female,Obésité de classe III,-1.0100505037878158,,Low
+11/4/1981,H,Sous-poids,-1.0100505037878158,No,High
+9/20/1961,Female,Obésité de classe II,0.9900495037128096,Yes,High
+6/11/1937,Female,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+7/20/1996,Female,Obésité de classe III,0.9900495037128096,No,High
+2/9/1931,Male,Sous-poids,0.9900495037128096,Yes,Medium
+11/1/1937,H,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+12/12/1995,Female,Sous-poids,0.9900495037128096,Maybe,Medium
+9/10/1973,Female,Obesité exteme,-1.0100505037878158,Maybe,Low
+8/2/1935,H,Sous-poids,-1.0100505037878158,No,Medium
+9/28/2019,Femme,Obesité exteme,0.9900495037128096,No,High
+3/27/1959,Homme,Poids normal Surpoids,0.9900495037128096,No,Medium
+10/19/2013,Femme,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+10/14/1931,H,Obésité de classe II,0.9900495037128096,No,Low
+3/20/2013,Femme,Sous-poids,-1.0100505037878158,Yes,Low
+3/31/1946,Femme,Obésité de classe II,0.9900495037128096,No,Low
+1/2/1994,Male,Obesité exteme,-1.0100505037878158,No,Low
+7/6/2021,Homme,Obésité de classe II,0.9900495037128096,No,High
+1/11/2009,Homme,Obésité de classe II,-1.0100505037878158,Yes,Medium
+12/9/1968,Femme,Sous-poids,-1.0100505037878158,Yes,Low
+12/20/1999,F,Obésité de classe III,0.9900495037128096,Maybe,Low
+9/1/1966,H,Obesité exteme,-1.0100505037878158,Maybe,High
+6/30/2005,H,Obésité de classe II,0.9900495037128096,No,Low
+1/31/1937,Femme,Obésité de classe II,-1.0100505037878158,Yes,High
+5/27/1970,Homme,Sous-poids,0.9900495037128096,No,High
+3/7/1938,Male,Obésité de classe II,0.9900495037128096,Yes,Medium
+5/28/1959,Femme,Sous-poids,-1.0100505037878158,No,Low
+7/3/1993,Female,Poids normal Surpoids,0.9900495037128096,No,Low
+10/25/1944,F,Obesité exteme,0.9900495037128096,Yes,High
+10/1/1996,F,Obésité de classe II,0.9900495037128096,Yes,Low
+9/15/2005,Homme,Obésité de classe II,-1.0100505037878158,Yes,Low
+6/18/1941,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/14/1970,F,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+9/15/1930,Female,Obésité de classe II,0.9900495037128096,Yes,Low
+2/27/1972,Male,Obesité exteme,0.9900495037128096,Yes,Medium
+4/4/1987,,Obesité exteme,0.9900495037128096,Maybe,Medium
+12/22/1978,F,Sous-poids,0.9900495037128096,Yes,High
+9/23/1997,Male,Obésité de classe II,0.9900495037128096,Maybe,Low
+5/20/1955,Femme,Obésité de classe II,0.9900495037128096,No,Low
+11/9/2003,H,Obesité exteme,0.9900495037128096,Yes,Low
+10/11/1930,H,Obesité exteme,0.9900495037128096,Maybe,High
+1/4/1958,F,Obesité exteme,0.9900495037128096,Yes,
+8/23/1937,H,Obésité de classe I,0.9900495037128096,No,High
+9/28/1994,Femme,Poids normal Surpoids,-1.0100505037878158,No,
+4/5/2022,Female,Obésité de classe I,0.9900495037128096,Maybe,High
+9/6/2008,H,Sous-poids,-1.0100505037878158,No,Medium
+4/30/1958,Femme,Obésité de classe III,0.9900495037128096,Yes,High
+6/3/1989,Homme,Sous-poids,0.9900495037128096,No,High
+10/21/2013,,Sous-poids,0.9900495037128096,Maybe,High
+6/8/1959,Homme,Obésité de classe II,-1.0100505037878158,Yes,Medium
+7/12/1938,Femme,Obesité exteme,0.9900495037128096,Maybe,
+8/13/1965,F,Obésité de classe I,-1.0100505037878158,,High
+3/17/1962,Femme,Obésité de classe II,0.9900495037128096,Yes,Medium
+4/1/1972,Female,Obesité exteme,-1.0100505037878158,No,Medium
+6/5/2013,Female,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+4/22/1970,H,Obésité de classe III,-1.0100505037878158,Maybe,Low
+1/5/1951,Female,Poids normal Surpoids,0.9900495037128096,No,Low
+10/12/1974,Female,Obesité exteme,-1.0100505037878158,Yes,High
+7/1/1955,Female,Obésité de classe III,0.9900495037128096,No,Low
+10/5/1971,F,Sous-poids,0.9900495037128096,Yes,Medium
+5/3/2022,Homme,Obesité exteme,-1.0100505037878158,Maybe,Medium
+9/24/2018,Homme,Obésité de classe I,-1.0100505037878158,,Low
+10/18/1968,Femme,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+4/29/1956,Female,Obésité de classe III,0.9900495037128096,No,High
+9/5/1984,Female,Obésité de classe III,-1.0100505037878158,Maybe,Low
+12/12/1975,Femme,Obesité exteme,-1.0100505037878158,,Medium
+8/23/1934,Femme,Sous-poids,-1.0100505037878158,Maybe,Medium
+7/27/2012,Homme,Poids normal Surpoids,-1.0100505037878158,No,High
+2/25/2020,Homme,Poids normal Surpoids,-1.0100505037878158,Yes,Medium
+4/27/1966,Femme,Obesité exteme,0.9900495037128096,Maybe,Medium
+8/15/1963,Female,Obésité de classe III,0.9900495037128096,No,High
+12/3/1998,Homme,Obésité de classe II,-1.0100505037878158,No,High
+1/30/1962,F,Obésité de classe II,0.9900495037128096,Maybe,High
+6/18/2023,Femme,Obésité de classe III,0.9900495037128096,Maybe,Low
+4/28/2020,Female,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+12/5/2013,Homme,Sous-poids,0.9900495037128096,No,Medium
+3/26/1988,Female,Poids normal Surpoids,-1.0100505037878158,No,Medium
+10/25/2008,Male,Poids normal Surpoids,-1.0100505037878158,Yes,Low
+10/29/1993,H,Obésité de classe II,-1.0100505037878158,Yes,Medium
+9/19/2000,Homme,Obésité de classe III,0.9900495037128096,Maybe,Low
+6/3/2006,H,Obésité de classe I,-1.0100505037878158,No,Medium
+7/8/1996,Homme,Obésité de classe III,0.9900495037128096,Maybe,Low
+7/11/2021,Female,Obésité de classe I,-1.0100505037878158,No,Medium
+2/7/1973,F,Obésité de classe I,-1.0100505037878158,No,Low
+7/10/2006,Femme,Obesité exteme,-1.0100505037878158,Maybe,Medium
+7/3/1979,F,Obesité exteme,0.9900495037128096,Yes,Medium
+6/16/2015,F,Poids normal Surpoids,-1.0100505037878158,Maybe,Medium
+5/30/1944,Homme,Poids normal Surpoids,-1.0100505037878158,No,High
+12/26/2010,Male,Obésité de classe II,-1.0100505037878158,Yes,High
+6/12/1960,Female,Obésité de classe I,0.9900495037128096,Yes,High
+11/4/1964,Homme,Sous-poids,0.9900495037128096,Yes,
+11/29/1966,Male,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+7/1/2019,Homme,Obésité de classe III,0.9900495037128096,Yes,Medium
+5/5/2008,Female,Obésité de classe II,-1.0100505037878158,No,High
+10/19/1976,F,Obesité exteme,0.9900495037128096,No,Medium
+11/21/1979,Femme,Poids normal Surpoids,-1.0100505037878158,No,High
+11/29/2016,H,Poids normal Surpoids,0.9900495037128096,No,High
+8/1/2011,H,Sous-poids,0.9900495037128096,Yes,High
+9/7/1940,F,Sous-poids,0.9900495037128096,Maybe,Medium
+12/3/1995,Female,Obésité de classe I,0.9900495037128096,Yes,Low
+1/5/1951,Femme,Obésité de classe I,0.9900495037128096,Maybe,Medium
+6/3/2016,Homme,Obésité de classe III,-1.0100505037878158,Maybe,Medium
+7/9/1975,Femme,Obesité exteme,-1.0100505037878158,No,Low
+2/24/1973,H,Obésité de classe II,-1.0100505037878158,No,Medium
+10/8/1998,H,Obésité de classe III,0.9900495037128096,No,High
+5/22/1990,F,Obésité de classe III,0.9900495037128096,Yes,Medium
+1/6/2022,Male,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+4/19/1995,F,Obésité de classe I,-1.0100505037878158,No,High
+6/10/2008,Female,Sous-poids,0.9900495037128096,Maybe,High
+4/20/1998,Female,Obesité exteme,0.9900495037128096,Yes,Low
+11/16/1968,H,Poids normal Surpoids,-1.0100505037878158,No,Medium
+7/13/1957,Male,Poids normal Surpoids,-1.0100505037878158,Maybe,High
+4/20/1957,Male,Sous-poids,-1.0100505037878158,No,Low
+4/11/2012,Femme,Obésité de classe II,-1.0100505037878158,No,High
+7/30/1991,H,Obesité exteme,0.9900495037128096,No,Low
+10/23/1960,H,Obésité de classe III,-1.0100505037878158,Maybe,High
+8/18/1959,Femme,Obésité de classe III,-1.0100505037878158,No,High
+12/18/1950,Homme,Obésité de classe I,0.9900495037128096,Yes,High
+11/27/1980,Homme,Obesité exteme,0.9900495037128096,Yes,Low
+5/2/1931,H,Obesité exteme,-1.0100505037878158,Yes,High
+6/16/1943,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+1/4/2006,Female,Obésité de classe I,0.9900495037128096,Yes,
+7/11/1977,F,Obésité de classe II,-1.0100505037878158,No,Medium
+2/3/1937,H,Poids normal Surpoids,-1.0100505037878158,Yes,Medium
+10/23/1976,Male,Obesité exteme,-1.0100505037878158,Maybe,Low
+3/20/1952,H,Obesité exteme,0.9900495037128096,No,Medium
+8/12/1982,Homme,Obésité de classe II,0.9900495037128096,Yes,High
+12/16/1993,Homme,Obésité de classe I,-1.0100505037878158,Maybe,High
+2/22/1994,H,Obésité de classe III,-1.0100505037878158,No,Medium
+5/29/1956,Male,Poids normal Surpoids,-1.0100505037878158,Yes,Medium
+11/12/2021,Male,Obésité de classe II,0.9900495037128096,No,High
+4/16/2014,Homme,Obésité de classe II,0.9900495037128096,Maybe,High
+6/11/1935,,Obésité de classe I,-1.0100505037878158,Maybe,High
+4/8/1975,Male,Obésité de classe I,0.9900495037128096,Yes,Low
+10/25/1988,Male,Obesité exteme,0.9900495037128096,,Low
+12/1/1996,H,Poids normal Surpoids,0.9900495037128096,Yes,High
+4/2/1941,Male,Poids normal Surpoids,-1.0100505037878158,No,High
+7/17/2007,Femme,Obesité exteme,0.9900495037128096,No,Low
+11/1/1999,Homme,Sous-poids,0.9900495037128096,No,Low
+1/29/1953,Homme,Obesité exteme,-1.0100505037878158,No,Low
+11/15/2002,Homme,Poids normal Surpoids,0.9900495037128096,Maybe,
+9/5/1951,Female,Obésité de classe II,0.9900495037128096,No,Medium
+12/29/2016,F,Obésité de classe III,-1.0100505037878158,Yes,Medium
+3/7/2012,Female,Obésité de classe I,-1.0100505037878158,Maybe,High
+6/27/2010,Femme,Obesité exteme,0.9900495037128096,No,High
+8/5/2020,Male,Obesité exteme,0.9900495037128096,No,High
+10/10/1976,Female,Obésité de classe I,0.9900495037128096,Yes,High
+9/16/1942,Male,Obésité de classe III,-1.0100505037878158,Maybe,High
+1/20/1951,H,Obesité exteme,0.9900495037128096,Yes,Low
+8/5/1943,Femme,Sous-poids,-1.0100505037878158,No,High
+3/15/1969,H,Poids normal Surpoids,0.9900495037128096,Maybe,High
+12/27/2003,Female,Obesité exteme,-1.0100505037878158,No,High
+3/19/2011,H,Obésité de classe III,0.9900495037128096,Maybe,High
+12/2/1948,F,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+7/26/1947,F,Obésité de classe II,0.9900495037128096,Maybe,High
+1/29/1957,,Obesité exteme,-1.0100505037878158,Maybe,Low
+8/7/1970,Homme,Poids normal Surpoids,0.9900495037128096,Yes,High
+10/8/1958,F,Sous-poids,0.9900495037128096,Maybe,Low
+2/28/1934,Male,Sous-poids,0.9900495037128096,Yes,Medium
+7/9/2001,H,Obésité de classe II,0.9900495037128096,Maybe,High
+11/9/1972,Femme,Obésité de classe III,-1.0100505037878158,No,Medium
+10/16/1934,H,Obesité exteme,0.9900495037128096,Yes,Low
+1/15/1985,Male,Obesité exteme,-1.0100505037878158,Yes,Low
+1/19/1948,Homme,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+11/30/1981,Femme,Obésité de classe II,-1.0100505037878158,Yes,High
+9/25/1992,Male,Obésité de classe II,-1.0100505037878158,Yes,Medium
+7/6/1996,Homme,Obésité de classe II,-1.0100505037878158,No,High
+4/2/1966,Female,Obésité de classe II,0.9900495037128096,No,High
+8/17/1935,Femme,Obesité exteme,-1.0100505037878158,No,Low
+3/14/1969,Homme,Obésité de classe I,0.9900495037128096,Maybe,
+6/11/1964,,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+7/29/1988,H,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+3/10/2023,F,Sous-poids,0.9900495037128096,Yes,High
+1/4/1939,Homme,Obésité de classe II,0.9900495037128096,No,High
+3/29/2022,Femme,Obésité de classe I,0.9900495037128096,No,Medium
+3/10/1945,H,Poids normal Surpoids,-1.0100505037878158,Maybe,Low
+7/2/1970,H,Obesité exteme,-1.0100505037878158,Yes,Low
+3/19/1973,H,Sous-poids,0.9900495037128096,No,Medium
+3/2/1975,H,Poids normal Surpoids,-1.0100505037878158,No,Low
+10/21/2018,Femme,Obésité de classe III,0.9900495037128096,Yes,High
+5/15/1956,H,Sous-poids,0.9900495037128096,No,Low
+10/21/2001,Male,Obésité de classe I,-1.0100505037878158,Yes,High
+7/24/1953,F,Obésité de classe III,-1.0100505037878158,No,Medium
+7/31/1970,H,Obésité de classe III,-1.0100505037878158,No,High
+5/9/1974,Male,Obésité de classe II,-1.0100505037878158,Yes,
+11/4/1974,,Obésité de classe I,-1.0100505037878158,No,High
+8/23/1956,Femme,Poids normal Surpoids,0.9900495037128096,No,Low
+8/13/1949,Homme,Obésité de classe I,0.9900495037128096,Yes,Low
+1/30/2007,F,Obésité de classe II,0.9900495037128096,Yes,High
+11/18/1964,Homme,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+7/10/2012,Femme,Poids normal Surpoids,0.9900495037128096,Yes,High
+3/27/2006,F,Obésité de classe III,0.9900495037128096,Maybe,Medium
+5/13/1995,Femme,Obésité de classe II,-1.0100505037878158,No,High
+5/16/2022,Male,Obésité de classe III,0.9900495037128096,Yes,Low
+10/30/1985,F,Sous-poids,0.9900495037128096,Yes,High
+7/30/1982,Homme,Sous-poids,0.9900495037128096,Maybe,Medium
+12/22/1956,F,Obésité de classe III,0.9900495037128096,No,High
+9/6/1951,Femme,Sous-poids,0.9900495037128096,Yes,Low
+2/28/1964,Femme,Obésité de classe I,-1.0100505037878158,Maybe,Medium
+11/26/2008,H,Obésité de classe II,-1.0100505037878158,Yes,Medium
+11/29/2006,Male,Obesité exteme,-1.0100505037878158,Maybe,Low
+10/10/2020,Femme,Obesité exteme,0.9900495037128096,No,Low
+4/18/1933,Femme,Sous-poids,-1.0100505037878158,No,Low
+8/15/2007,Male,Sous-poids,0.9900495037128096,Yes,High
+7/25/1964,,Obésité de classe III,0.9900495037128096,Yes,High
+3/4/1948,Femme,Obesité exteme,0.9900495037128096,Yes,Medium
+2/9/1974,Male,Poids normal Surpoids,-1.0100505037878158,,High
+11/29/1955,H,Obésité de classe II,0.9900495037128096,No,
+8/1/1984,Femme,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+8/19/1988,H,Obésité de classe III,-1.0100505037878158,No,Low
+10/16/1983,Male,Poids normal Surpoids,0.9900495037128096,Maybe,Low
+10/10/1960,Female,Obésité de classe I,-1.0100505037878158,Yes,Low
+6/1/1965,Female,Obésité de classe I,0.9900495037128096,Maybe,High
+2/29/1992,Male,Poids normal Surpoids,0.9900495037128096,Yes,Medium
+11/16/2019,Femme,Obésité de classe II,-1.0100505037878158,Maybe,Low
+11/23/1963,Female,Poids normal Surpoids,-1.0100505037878158,No,High
+6/3/1953,Female,Obesité exteme,-1.0100505037878158,Maybe,Medium
+8/3/1968,F,Obésité de classe II,-1.0100505037878158,Yes,Medium
+1/20/2018,F,Poids normal Surpoids,0.9900495037128096,Maybe,Medium
+12/26/2022,H,Obésité de classe I,-1.0100505037878158,Yes,
+3/20/1996,Homme,Obésité de classe III,-1.0100505037878158,No,Low
+4/24/1988,Femme,Sous-poids,0.9900495037128096,Yes,High
+7/31/2015,Female,Sous-poids,-1.0100505037878158,No,Low
+4/30/1998,Femme,Sous-poids,-1.0100505037878158,Maybe,Low
+2/18/1942,Femme,Obésité de classe II,-1.0100505037878158,Yes,Medium
+12/16/1992,F,Sous-poids,-1.0100505037878158,No,Medium
+4/30/2014,,Obésité de classe II,-1.0100505037878158,No,High
+11/20/1941,H,Obésité de classe III,0.9900495037128096,Maybe,Low
+8/17/1975,Male,Obesité exteme,-1.0100505037878158,No,Medium
+10/10/1990,Female,Obésité de classe II,0.9900495037128096,Yes,Low
+6/8/1952,Homme,Obesité exteme,0.9900495037128096,Maybe,Low
+6/12/1964,F,Sous-poids,0.9900495037128096,Maybe,Medium
+4/26/1990,H,Poids normal Surpoids,0.9900495037128096,Yes,Medium
+2/1/1948,Male,Obésité de classe I,-1.0100505037878158,Yes,Medium
+10/13/1978,Homme,Poids normal Surpoids,-1.0100505037878158,No,Low
+6/9/1970,F,Obésité de classe II,0.9900495037128096,No,High
+9/20/1982,H,Obésité de classe III,-1.0100505037878158,No,High
+10/11/1986,Male,Poids normal Surpoids,-1.0100505037878158,No,Low
+4/10/2019,Homme,Obesité exteme,0.9900495037128096,No,Medium
+2/20/2008,F,Obésité de classe III,-1.0100505037878158,Yes,High
+7/28/1955,Femme,Poids normal Surpoids,-1.0100505037878158,No,Low
+12/9/1988,Female,Poids normal Surpoids,-1.0100505037878158,No,High
+12/8/1973,Homme,Obésité de classe I,0.9900495037128096,No,Medium
+4/20/1987,Female,Obésité de classe II,-1.0100505037878158,Maybe,High
+8/8/1992,Homme,Obésité de classe II,-1.0100505037878158,Yes,
+2/7/2022,Homme,Obésité de classe III,0.9900495037128096,Maybe,Medium
+5/22/1950,F,Obésité de classe I,0.9900495037128096,No,High
+7/29/1950,Homme,Obesité exteme,-1.0100505037878158,No,Low
+4/25/1950,Male,Sous-poids,-1.0100505037878158,No,Low
+9/4/1969,Male,Obésité de classe III,0.9900495037128096,No,Low

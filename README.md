@@ -73,7 +73,7 @@ Amélioré : Random Forest
 
 Avancé : XGBoost (optionnel)
 
-Optimisation des hyperparamètres avec GridSearchCV
+Optimisation des hyperparamètres
 
 Validation croisée (5 folds)
 
